@@ -1,1 +1,12 @@
-toto
+# Fuzzy Invention
+
+This repository contains a simple script to display TGV trains delayed on arrival at **Paris Gare de Lyon** using open data from the SNCF GTFS real-time feed.
+
+## Usage
+
+```bash
+pip install --user requests gtfs-realtime-bindings
+python3 delays_gare_de_lyon.py
+```
+
+The script fetches the GTFS-RT Trip Updates feed, filters stop IDs corresponding to Gare de Lyon, and prints upcoming arrivals with their delay in seconds.
