@@ -4,7 +4,8 @@ on:
   workflow_dispatch:    # permet de déclencher manuellement depuis GitHub
   schedule:
     - cron: '*/15 * * * *'  # (optionnel) toutes les 15 minutes
-
+permissions:
+  contents: write        # allow pushing to the repo
 jobs:
   run-script:
     runs-on: ubuntu-latest
