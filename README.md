@@ -16,3 +16,6 @@ The script downloads the GTFS-RT feed, searches for trains arriving at **Gare de
 ```
 
 The last column shows the delay in seconds. When a train travels through Switzerland the Swiss stops visited before reaching Paris are listed.
+=======
+The script fetches the GTFS-RT Trip Updates feed, filters stop IDs corresponding to Gare de Lyon, and prints upcoming arrivals with their delay in seconds.
+nn

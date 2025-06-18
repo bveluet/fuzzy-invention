@@ -2,6 +2,7 @@ import datetime
 import re
 import requests
 from functools import lru_cache
+
 from google.transit import gtfs_realtime_pb2
 
 # UIC codes for Paris Gare de Lyon
@@ -11,12 +12,14 @@ STOP_IDS = [f"StopPoint:OCETGV INOUI-{code}" for code in STATION_CODES]
 
 FEED_URL = "https://proxy.transport.data.gouv.fr/resource/sncf-tgv-gtfs-rt-trip-updates"
 
+
 # API endpoints to resolve station names
 FRENCH_STATIONS_URL = (
     "https://data.sncf.com/api/records/1.0/search/"
     "?dataset=gares-de-voyageurs&rows=1&q="
 )
 SWISS_STATIONS_URL = "https://transport.opendata.ch/v1/locations?query="
+
 
 
 def fetch_feed(url: str) -> gtfs_realtime_pb2.FeedMessage:
@@ -82,6 +85,7 @@ def get_delays(feed: gtfs_realtime_pb2.FeedMessage):
     return sorted(updates, key=lambda x: x["arrival"])
 
 
+
 if __name__ == "__main__":
     feed = fetch_feed(FEED_URL)
     delays = get_delays(feed)
@@ -92,4 +96,5 @@ if __name__ == "__main__":
         delay = upd["delay"]
         swiss = ", ".join(upd["swiss_stops"]) if upd["swiss_stops"] else "-"
         print(f"{arrival} | Train {train} | from {origin} | Swiss stops: {swiss} | +{delay}s")
+
     print(f"Total delayed trains: {len(delays)}")
