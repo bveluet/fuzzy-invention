@@ -30,18 +30,13 @@ jobs:
         run: cat gdl-retard.txt
 
       - name: Commit file to repository
-<<<<<<< wi4u3f-codex/modifier-workflow-github-pour-écrire-dans-gdl-retard.txt
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-=======
->>>>>>> main
+
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add gdl-retard.txt
           git commit -m "Update gdl-retard.txt" || echo "No changes to commit"
-<<<<<<< wi4u3f-codex/modifier-workflow-github-pour-écrire-dans-gdl-retard.txt
           git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}" HEAD:${{ github.ref }}
-=======
-          git push
->>>>>>> main
+
