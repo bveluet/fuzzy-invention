@@ -1,0 +1,2 @@
+2025-06-18T09:20:00 | Train 6250 | from Perpignan | Swiss stops: - | +900s
+Total delayed trains: 1
