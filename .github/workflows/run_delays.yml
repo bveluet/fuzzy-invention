@@ -1,0 +1,28 @@
+name: Exécuter delays_gare_de_lyon
+
+on:
+  workflow_dispatch:    # permet de déclencher manuellement depuis GitHub
+  schedule:
+    - cron: '*/15 * * * *'  # (optionnel) toutes les 15 minutes
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Cloner le dépôt
+        uses: actions/checkout@v3
+
+      - name: Installer Python et dépendances
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - run: pip install requests gtfs-realtime-bindings
+
+      - name: Exécuter le script
+        run: |
+          python delays_gare_de_lyon.py
+
+      - name: Afficher la sortie
+        # Cette étape est optionnelle : elle affiche simplement les logs dans l'UI Actions
+        run: echo "Script exécuté avec succès"
