@@ -1,12 +1,12 @@
-2025-06-20T17:43:00 | Train 6124 | from Hyères | Swiss stops: - | +1200s
-2025-06-20T17:43:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +1200s
 2025-06-20T18:25:00 | Train 6206 | from Montpellier Saint-Roch | Swiss stops: - | +300s
 2025-06-20T18:29:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +300s
-2025-06-20T19:04:00 | Train 6628 | from Lyon Perrache | Swiss stops: - | +3300s
+2025-06-20T19:09:00 | Train 6628 | from Lyon Perrache | Swiss stops: - | +3600s
 2025-06-20T19:14:00 | Train 6708 | from Mulhouse | Swiss stops: - | +1800s
 2025-06-20T19:14:00 | Train 6764 | from Besançon Viotte | Swiss stops: - | +1800s
 2025-06-20T19:16:00 | Train 6630 | from Lyon Perrache | Swiss stops: - | +900s
-2025-06-20T19:53:00 | Train 6198 | from Miramas | Swiss stops: - | +300s
-2025-06-20T19:53:00 | Train 6924 | from Grenoble | Swiss stops: - | +300s
-2025-06-20T21:03:00 | Train 6180 | from Nice | Swiss stops: - | +1200s
+2025-06-20T19:58:00 | Train 6198 | from Miramas | Swiss stops: - | +600s
+2025-06-20T19:58:00 | Train 6924 | from Grenoble | Swiss stops: - | +600s
+2025-06-20T21:08:00 | Train 6180 | from Nice | Swiss stops: - | +1500s
+2025-06-20T21:28:00 | Train 6768 | from Besançon Viotte | Swiss stops: - | +2100s
+2025-06-20T21:29:00 | Train 6986 | from Annecy | Swiss stops: - | +300s
 Total delayed trains: 11
