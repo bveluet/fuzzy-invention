@@ -1,7 +1,5 @@
-2025-06-21T20:11:00 | Train 6168 | from Nice | Swiss stops: - | +600s
-2025-06-21T20:14:00 | Train 6924 | from Grenoble | Swiss stops: - | +1500s
 2025-06-21T20:35:00 | Train 6052 | from Perpignan | Swiss stops: - | +600s
 2025-06-21T20:38:00 | Train 6132 | from Marseille Saint-Charles | Swiss stops: - | +600s
 2025-06-21T21:56:00 | Train 9250 | from 83016451 | Swiss stops: - | +2100s
 2025-06-21T21:56:00 | Train 6986 | from Annecy | Swiss stops: - | +2100s
-Total delayed trains: 6
+Total delayed trains: 4
