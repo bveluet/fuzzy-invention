@@ -1,3 +1,1 @@
-2025-06-21T21:56:00 | Train 9250 | from 83016451 | Swiss stops: - | +2100s
-2025-06-21T21:56:00 | Train 6986 | from Annecy | Swiss stops: - | +2100s
-Total delayed trains: 2
+Total delayed trains: 0
