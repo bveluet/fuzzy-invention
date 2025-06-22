@@ -1,13 +1,10 @@
-2025-06-22T15:45:00 | Train 6204 | from Perpignan | Swiss stops: - | +1500s
-2025-06-22T15:59:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +600s
-2025-06-22T15:59:00 | Train 6920 | from Grenoble | Swiss stops: - | +600s
 2025-06-22T16:08:00 | Train 6176 | from Nice | Swiss stops: - | +900s
+2025-06-22T16:19:00 | Train 6258 | from Perpignan | Swiss stops: - | +300s
+2025-06-22T16:19:00 | Train 6050 | from Montpellier Sud de France | Swiss stops: - | +300s
 2025-06-22T16:19:00 | Train 6624 | from Lyon Perrache | Swiss stops: - | +600s
 2025-06-22T16:23:00 | Train 6504 | from Évian-les-Bains | Swiss stops: - | +300s
-2025-06-22T16:24:00 | Train 6258 | from Perpignan | Swiss stops: - | +600s
-2025-06-22T16:24:00 | Train 6050 | from Montpellier Sud de France | Swiss stops: - | +600s
 2025-06-22T16:32:00 | Train 6122 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-06-22T17:07:00 | Train 6626 | from Lyon Perrache | Swiss stops: - | +300s
+2025-06-22T18:20:00 | Train 6628 | from Lyon Perrache | Swiss stops: - | +600s
 2025-06-22T20:03:00 | Train 6168 | from Nice | Swiss stops: - | +600s
-2025-06-22T22:12:00 | Train 6186 | from Nice | Swiss stops: - | +300s
-Total delayed trains: 12
+Total delayed trains: 9
