@@ -1,2 +1,2 @@
-2025-06-22T11:31:00 | Train 6964 | from Annecy | Swiss stops: - | +900s
+2025-06-22T11:12:00 | Train 6614 | from Lyon Perrache | Swiss stops: - | +600s
 Total delayed trains: 1
