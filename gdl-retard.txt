@@ -1,3 +1,6 @@
 2025-06-23T06:31:00 | Train 6602 | from Lyon Perrache | Swiss stops: - | +900s
 2025-06-23T06:56:00 | Train 6644 | from Lyon Perrache | Swiss stops: - | +300s
-Total delayed trains: 2
+2025-06-23T07:24:00 | Train 6200 | from Montpellier Saint-Roch | Swiss stops: - | +300s
+2025-06-23T07:53:00 | Train 6194 | from Miramas | Swiss stops: - | +300s
+2025-06-23T07:53:00 | Train 6906 | from Grenoble | Swiss stops: - | +300s
+Total delayed trains: 5
