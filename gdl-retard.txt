@@ -1,3 +1,4 @@
-2025-06-23T11:45:00 | Train 6964 | from Annecy | Swiss stops: - | +1800s
-2025-06-23T12:07:00 | Train 6188 | from Nice | Swiss stops: - | +900s
-Total delayed trains: 2
+2025-06-23T10:52:00 | Train 6908 | from Grenoble | Swiss stops: - | +300s
+2025-06-23T11:35:00 | Train 6964 | from Annecy | Swiss stops: - | +1200s
+2025-06-23T12:02:00 | Train 6188 | from Nice | Swiss stops: - | +600s
+Total delayed trains: 3
