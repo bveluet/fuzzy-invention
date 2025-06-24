@@ -6,8 +6,9 @@
 2025-06-24T18:29:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-06-24T19:37:00 | Train 6922 | from Grenoble | Swiss stops: - | +6600s
 2025-06-24T19:57:00 | Train 6168 | from Nice | Swiss stops: - | +300s
-2025-06-24T20:13:00 | Train 6198 | from Miramas | Swiss stops: - | +1500s
-2025-06-24T20:13:00 | Train 6924 | from Grenoble | Swiss stops: - | +1500s
+2025-06-24T20:23:00 | Train 6198 | from Miramas | Swiss stops: - | +2100s
+2025-06-24T20:23:00 | Train 6924 | from Grenoble | Swiss stops: - | +2100s
 2025-06-24T21:08:00 | Train 6180 | from Nice | Swiss stops: - | +1500s
 2025-06-24T21:29:00 | Train 9250 | from 83016451 | Swiss stops: - | +300s
-Total delayed trains: 12
+2025-06-24T21:29:00 | Train 6986 | from Annecy | Swiss stops: - | +300s
+Total delayed trains: 13
