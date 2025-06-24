@@ -1,3 +1,2 @@
 2025-06-24T10:28:00 | Train 6112 | from Marseille Saint-Charles | Swiss stops: - | +300s
-2025-06-24T11:06:00 | Train 6614 | from Lyon Perrache | Swiss stops: - | +300s
-Total delayed trains: 2
+Total delayed trains: 1
