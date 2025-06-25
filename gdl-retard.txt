@@ -1,6 +1,7 @@
 2025-06-25T07:53:00 | Train 6194 | from Miramas | Swiss stops: - | +300s
 2025-06-25T07:53:00 | Train 6906 | from Grenoble | Swiss stops: - | +300s
 2025-06-25T07:57:00 | Train 6150 | from Toulon | Swiss stops: - | +300s
-2025-06-25T10:44:00 | Train 6202 | from Perpignan | Swiss stops: - | +1500s
-2025-06-25T10:44:00 | Train 6030 | from Montpellier Saint-Roch | Swiss stops: - | +1500s
-Total delayed trains: 5
+2025-06-25T10:54:00 | Train 6202 | from Perpignan | Swiss stops: - | +2100s
+2025-06-25T10:54:00 | Train 6030 | from Montpellier Saint-Roch | Swiss stops: - | +2100s
+2025-06-25T11:25:00 | Train 6964 | from Annecy | Swiss stops: - | +600s
+Total delayed trains: 6
