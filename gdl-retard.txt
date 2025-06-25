@@ -1,4 +1,4 @@
-2025-06-25T10:59:00 | Train 6202 | from Perpignan | Swiss stops: - | +2400s
-2025-06-25T10:59:00 | Train 6030 | from Montpellier Saint-Roch | Swiss stops: - | +2400s
-2025-06-25T11:45:00 | Train 6964 | from Annecy | Swiss stops: - | +1800s
+2025-06-25T11:04:00 | Train 6202 | from Perpignan | Swiss stops: - | +2700s
+2025-06-25T11:04:00 | Train 6030 | from Montpellier Saint-Roch | Swiss stops: - | +2700s
+2025-06-25T11:50:00 | Train 6964 | from Annecy | Swiss stops: - | +2100s
 Total delayed trains: 3
