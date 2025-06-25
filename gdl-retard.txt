@@ -1,8 +1,9 @@
-2025-06-25T14:29:00 | Train 6048 | from Montpellier Sud de France | Swiss stops: - | +900s
 2025-06-25T16:35:00 | Train 6258 | from Perpignan | Swiss stops: - | +1200s
 2025-06-25T16:53:00 | Train 6706 | from Mulhouse | Swiss stops: - | +600s
-2025-06-25T17:28:00 | Train 6124 | from Hyères | Swiss stops: - | +300s
-2025-06-25T17:28:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +300s
+2025-06-25T17:33:00 | Train 6124 | from Hyères | Swiss stops: - | +600s
+2025-06-25T17:33:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +600s
 2025-06-25T17:35:00 | Train 6978 | from Annecy | Swiss stops: - | +1200s
 2025-06-25T20:02:00 | Train 6168 | from Nice | Swiss stops: - | +600s
-Total delayed trains: 7
+2025-06-25T21:23:00 | Train 6180 | from Nice | Swiss stops: - | +2400s
+2025-06-25T21:34:00 | Train 9250 | from 83016451 | Swiss stops: - | +600s
+Total delayed trains: 8
