@@ -1,2 +1,1 @@
-2025-06-27T23:54:00 | Train 6768 | from Besançon Viotte | Swiss stops: - | +10800s
-Total delayed trains: 1
+Total delayed trains: 0
