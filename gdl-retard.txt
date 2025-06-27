@@ -13,7 +13,7 @@
 2025-06-27T21:04:00 | Train 6708 | from Mulhouse | Swiss stops: - | +8400s
 2025-06-27T21:04:00 | Train 6764 | from Besançon Viotte | Swiss stops: - | +8400s
 2025-06-27T21:29:00 | Train 6180 | from Nice | Swiss stops: - | +2700s
-2025-06-27T21:49:00 | Train 9250 | from 83016451 | Swiss stops: - | +1500s
-2025-06-27T21:49:00 | Train 6986 | from Annecy | Swiss stops: - | +1500s
+2025-06-27T21:59:00 | Train 9250 | from 83016451 | Swiss stops: - | +2100s
+2025-06-27T21:59:00 | Train 6986 | from Annecy | Swiss stops: - | +2100s
 2025-06-27T22:54:00 | Train 6768 | from Besançon Viotte | Swiss stops: - | +7200s
 Total delayed trains: 18
