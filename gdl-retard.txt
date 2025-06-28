@@ -1,8 +1,8 @@
-2025-06-28T12:14:00 | Train 6616 | from Lyon Perrache | Swiss stops: - | +900s
 2025-06-28T13:06:00 | Train 6694 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
 2025-06-28T13:06:00 | Train 6618 | from Lyon Perrache | Swiss stops: - | +300s
 2025-06-28T13:57:00 | Train 6174 | from Nice | Swiss stops: - | +300s
-2025-06-28T14:24:00 | Train 6620 | from Lyon Perrache | Swiss stops: - | +900s
+2025-06-28T14:19:00 | Train 6048 | from Perpignan | Swiss stops: - | +300s
+2025-06-28T14:29:00 | Train 6620 | from Lyon Perrache | Swiss stops: - | +1200s
 2025-06-28T14:33:00 | Train 6972 | from Annecy | Swiss stops: - | +900s
-2025-06-28T14:46:00 | Train 6170 | from Nice | Swiss stops: - | +600s
+2025-06-28T14:51:00 | Train 6170 | from Nice | Swiss stops: - | +900s
 Total delayed trains: 7
