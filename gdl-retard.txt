@@ -1,6 +1,4 @@
-2025-06-28T16:03:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +900s
-2025-06-28T16:03:00 | Train 6920 | from Grenoble | Swiss stops: - | +900s
 2025-06-28T16:16:00 | Train 6624 | from Lyon Perrache | Swiss stops: - | +300s
 2025-06-28T17:25:00 | Train 9246 | from 83016451 | Swiss stops: - | +600s
 2025-06-28T17:25:00 | Train 6978 | from Annecy | Swiss stops: - | +600s
-Total delayed trains: 5
+Total delayed trains: 3
