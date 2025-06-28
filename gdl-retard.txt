@@ -1,3 +1,2 @@
-2025-06-28T19:06:00 | Train 6630 | from Lyon Perrache | Swiss stops: - | +300s
 2025-06-28T21:55:00 | Train 6038 | from Montpellier Saint-Roch | Swiss stops: - | +1800s
-Total delayed trains: 2
+Total delayed trains: 1
