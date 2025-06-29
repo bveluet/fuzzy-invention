@@ -1,2 +1,2 @@
-2025-06-29T11:40:00 | Train 6964 | from Annecy | Swiss stops: - | +1500s
+2025-06-29T11:50:00 | Train 6964 | from Annecy | Swiss stops: - | +2100s
 Total delayed trains: 1
