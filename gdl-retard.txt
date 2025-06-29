@@ -3,9 +3,10 @@
 2025-06-29T20:13:00 | Train 6924 | from Grenoble | Swiss stops: - | +1500s
 2025-06-29T20:27:00 | Train 6168 | from Nice | Swiss stops: - | +2100s
 2025-06-29T20:34:00 | Train 6132 | from Marseille Saint-Charles | Swiss stops: - | +600s
-2025-06-29T21:20:00 | Train 6634 | from Lyon Perrache | Swiss stops: - | +300s
+2025-06-29T21:25:00 | Train 6634 | from Lyon Perrache | Swiss stops: - | +600s
 2025-06-29T21:29:00 | Train 6180 | from Nice | Swiss stops: - | +2700s
 2025-06-29T21:33:00 | Train 9250 | from 83016451 | Swiss stops: - | +600s
 2025-06-29T21:33:00 | Train 6986 | from Annecy | Swiss stops: - | +600s
+2025-06-29T22:32:00 | Train 6144 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-06-29T22:39:00 | Train 6186 | from Nice | Swiss stops: - | +2400s
-Total delayed trains: 10
+Total delayed trains: 11
