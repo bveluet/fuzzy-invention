@@ -6,6 +6,7 @@
 2025-06-30T08:49:00 | Train 6702 | from Mulhouse | Swiss stops: - | +300s
 2025-06-30T09:10:00 | Train 6250 | from Perpignan | Swiss stops: - | +300s
 2025-06-30T09:10:00 | Train 6046 | from Montpellier Sud de France | Swiss stops: - | +300s
+2025-06-30T10:28:00 | Train 6112 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-06-30T10:39:00 | Train 6202 | from Perpignan | Swiss stops: - | +1200s
-2025-06-30T11:41:00 | Train 9242 | from 83016451 | Swiss stops: - | +600s
-Total delayed trains: 10
+2025-06-30T11:46:00 | Train 9242 | from 83016451 | Swiss stops: - | +900s
+Total delayed trains: 11
