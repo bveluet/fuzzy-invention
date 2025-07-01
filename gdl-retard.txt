@@ -1,3 +1,5 @@
 2025-07-01T10:24:00 | Train 6202 | from Perpignan | Swiss stops: - | +300s
 2025-07-01T10:28:00 | Train 6112 | from Marseille Saint-Charles | Swiss stops: - | +300s
-Total delayed trains: 2
+2025-07-01T11:07:00 | Train 6908 | from Grenoble | Swiss stops: - | +1200s
+2025-07-01T11:45:00 | Train 6964 | from Annecy | Swiss stops: - | +1800s
+Total delayed trains: 4
