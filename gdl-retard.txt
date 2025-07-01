@@ -1,10 +1,10 @@
 2025-07-01T18:59:00 | Train 6708 | from Mulhouse | Swiss stops: - | +900s
-2025-07-01T19:44:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +4800s
 2025-07-01T19:53:00 | Train 6124 | from Hyères | Swiss stops: - | +9000s
 2025-07-01T19:53:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +9000s
 2025-07-01T20:14:00 | Train 6122 | from Marseille Saint-Charles | Swiss stops: - | +13800s
-2025-07-01T20:23:00 | Train 6198 | from Miramas | Swiss stops: - | +2100s
-2025-07-01T20:23:00 | Train 6924 | from Grenoble | Swiss stops: - | +2100s
+2025-07-01T20:34:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +7800s
+2025-07-01T20:48:00 | Train 6198 | from Miramas | Swiss stops: - | +3600s
+2025-07-01T20:48:00 | Train 6924 | from Grenoble | Swiss stops: - | +3600s
 2025-07-01T21:22:00 | Train 6176 | from Nice | Swiss stops: - | +19800s
 2025-07-01T21:29:00 | Train 6986 | from Annecy | Swiss stops: - | +300s
 2025-07-01T21:32:00 | Train 6180 | from Nice | Swiss stops: - | +3000s
