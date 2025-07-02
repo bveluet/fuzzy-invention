@@ -5,5 +5,8 @@
 2025-07-02T11:19:00 | Train 6030 | from Montpellier Saint-Roch | Swiss stops: - | +3600s
 2025-07-02T11:23:00 | Train 6112 | from Marseille Saint-Charles | Swiss stops: - | +3600s
 2025-07-02T11:35:00 | Train 6964 | from Annecy | Swiss stops: - | +1200s
-2025-07-02T11:40:00 | Train 6616 | from Lyon Perrache | Swiss stops: - | +300s
-Total delayed trains: 8
+2025-07-02T11:45:00 | Train 6616 | from Lyon Perrache | Swiss stops: - | +600s
+2025-07-02T11:57:00 | Train 6188 | from Nice | Swiss stops: - | +300s
+2025-07-02T13:40:00 | Train 6116 | from Marseille Saint-Charles | Swiss stops: - | +900s
+2025-07-02T14:39:00 | Train 6048 | from Montpellier Sud de France | Swiss stops: - | +1500s
+Total delayed trains: 11
