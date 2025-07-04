@@ -1,7 +1,2 @@
-2025-07-04T10:23:00 | Train 6612 | from Lyon Perrache | Swiss stops: - | +900s
-2025-07-04T10:29:00 | Train 6202 | from Perpignan | Swiss stops: - | +600s
-2025-07-04T10:29:00 | Train 6030 | from Montpellier Saint-Roch | Swiss stops: - | +600s
-2025-07-04T10:33:00 | Train 6112 | from Marseille Saint-Charles | Swiss stops: - | +600s
-2025-07-04T11:40:00 | Train 6616 | from Lyon Perrache | Swiss stops: - | +300s
-2025-07-04T13:15:00 | Train 6694 | from Saint-Étienne Châteaucreux | Swiss stops: - | +900s
-Total delayed trains: 6
+2025-07-04T13:20:00 | Train 6694 | from Saint-Étienne Châteaucreux | Swiss stops: - | +1200s
+Total delayed trains: 1
