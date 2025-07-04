@@ -1,6 +1,5 @@
-2025-07-04T14:50:00 | Train 6694 | from Saint-Étienne Châteaucreux | Swiss stops: - | +6600s
 2025-07-04T15:58:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +600s
 2025-07-04T15:58:00 | Train 6920 | from Grenoble | Swiss stops: - | +600s
 2025-07-04T18:03:00 | Train 6124 | from Hyères | Swiss stops: - | +2400s
 2025-07-04T18:03:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +2400s
-Total delayed trains: 5
+Total delayed trains: 4
