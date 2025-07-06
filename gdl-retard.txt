@@ -1,1 +1,2 @@
-Total delayed trains: 0
+2025-07-06T11:57:00 | Train 6188 | from Nice | Swiss stops: - | +300s
+Total delayed trains: 1
