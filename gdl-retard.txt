@@ -1,6 +1,6 @@
+2025-07-06T20:48:00 | Train 6198 | from Miramas | Swiss stops: - | +3600s
+2025-07-06T20:48:00 | Train 6924 | from Grenoble | Swiss stops: - | +3600s
 2025-07-06T20:53:00 | Train 6132 | from Marseille Saint-Charles | Swiss stops: - | +1800s
-2025-07-06T20:58:00 | Train 6198 | from Miramas | Swiss stops: - | +4200s
-2025-07-06T20:58:00 | Train 6924 | from Grenoble | Swiss stops: - | +4200s
 2025-07-06T21:04:00 | Train 6180 | from Nice | Swiss stops: - | +1500s
 2025-07-06T21:07:00 | Train 6262 | from Montpellier Sud de France | Swiss stops: - | +600s
 2025-07-06T21:07:00 | Train 6730 | from Dijon | Swiss stops: - | +1200s
