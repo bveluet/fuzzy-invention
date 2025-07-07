@@ -1,8 +1,8 @@
 2025-07-07T06:51:00 | Train 6902 | from Grenoble | Swiss stops: - | +300s
 2025-07-07T07:23:00 | Train 6200 | from Montpellier Saint-Roch | Swiss stops: - | +300s
 2025-07-07T07:24:00 | Train 6960 | from Annecy | Swiss stops: - | +600s
+2025-07-07T07:25:00 | Train 6762 | from Besançon Viotte | Swiss stops: - | +900s
 2025-07-07T07:27:00 | Train 6136 | from Marseille Saint-Charles | Swiss stops: - | +300s
-2025-07-07T07:35:00 | Train 6762 | from Besançon Viotte | Swiss stops: - | +1500s
 2025-07-07T07:35:00 | Train 6692 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
-2025-07-07T08:15:00 | Train 6150 | from Toulon | Swiss stops: - | +1500s
+2025-07-07T08:25:00 | Train 6150 | from Toulon | Swiss stops: - | +2100s
 Total delayed trains: 7
