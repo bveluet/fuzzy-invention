@@ -1,1 +1,2 @@
-Total delayed trains: 0
+2025-07-07T11:05:00 | Train 6614 | from Lyon Perrache | Swiss stops: - | +300s
+Total delayed trains: 1
