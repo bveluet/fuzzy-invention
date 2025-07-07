@@ -1,3 +1,4 @@
 2025-07-07T06:51:00 | Train 6902 | from Grenoble | Swiss stops: - | +300s
-2025-07-07T08:05:00 | Train 6150 | from Toulon | Swiss stops: - | +900s
-Total delayed trains: 2
+2025-07-07T07:24:00 | Train 6960 | from Annecy | Swiss stops: - | +600s
+2025-07-07T08:15:00 | Train 6150 | from Toulon | Swiss stops: - | +1500s
+Total delayed trains: 3
