@@ -1,14 +1,11 @@
-2025-07-08T17:54:00 | Train 6696 | from Saint-Étienne Châteaucreux | Swiss stops: - | +1200s
-2025-07-08T18:06:00 | Train 6922 | from Grenoble | Swiss stops: - | +1200s
 2025-07-08T18:22:00 | Train 6124 | from Hyères | Swiss stops: - | +3600s
 2025-07-08T18:22:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +3600s
-2025-07-08T18:38:00 | Train 6628 | from Lyon Perrache | Swiss stops: - | +1800s
-2025-07-08T18:43:00 | Train 6206 | from StopArea:OCE87688887 | Swiss stops: - | +1500s
-2025-07-08T18:52:00 | Train 6708 | from Mulhouse | Swiss stops: - | +600s
+2025-07-08T18:43:00 | Train 6628 | from Lyon Perrache | Swiss stops: - | +2100s
+2025-07-08T18:53:00 | Train 6206 | from StopArea:OCE87688887 | Swiss stops: - | +2100s
+2025-07-08T18:57:00 | Train 6708 | from Mulhouse | Swiss stops: - | +900s
 2025-07-08T19:22:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +3600s
 2025-07-08T20:16:00 | Train 6198 | from Miramas | Swiss stops: - | +1800s
-2025-07-08T20:21:00 | Train 6162 | from Nice | Swiss stops: - | +9000s
 2025-07-08T20:24:00 | Train 6632 | from Lyon Perrache | Swiss stops: - | +1500s
-2025-07-08T20:46:00 | Train 6924 | from Grenoble | Swiss stops: - | +3600s
+2025-07-08T20:36:00 | Train 6924 | from Grenoble | Swiss stops: - | +3000s
 2025-07-08T21:54:00 | Train 6038 | from Perpignan | Swiss stops: - | +1800s
-Total delayed trains: 13
+Total delayed trains: 10
