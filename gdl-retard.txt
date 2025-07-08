@@ -1,3 +1,4 @@
 2025-07-08T08:41:00 | Train 6906 | from Grenoble | Swiss stops: - | +3300s
 2025-07-08T09:07:00 | Train 6702 | from Mulhouse | Swiss stops: - | +1500s
-Total delayed trains: 2
+2025-07-08T12:00:00 | Train 6188 | from Nice | Swiss stops: - | +600s
+Total delayed trains: 3
