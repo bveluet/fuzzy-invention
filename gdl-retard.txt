@@ -1,9 +1,9 @@
-2025-07-09T06:21:00 | Train 6602 | from Lyon Perrache | Swiss stops: - | +300s
-2025-07-09T06:44:00 | Train 6642 | from Lyon Perrache | Swiss stops: - | +600s
+2025-07-09T06:46:00 | Train 6602 | from Lyon Perrache | Swiss stops: - | +1800s
+2025-07-09T06:49:00 | Train 6642 | from Lyon Perrache | Swiss stops: - | +900s
 2025-07-09T07:23:00 | Train 6102 | from Marseille Saint-Charles | Swiss stops: - | +2700s
 2025-07-09T07:35:00 | Train 6692 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
 2025-07-09T07:37:00 | Train 6136 | from Marseille Saint-Charles | Swiss stops: - | +900s
 2025-07-09T07:51:00 | Train 6906 | from Grenoble | Swiss stops: - | +300s
 2025-07-09T08:10:00 | Train 6762 | from Besançon Viotte | Swiss stops: - | +3600s
-2025-07-09T10:27:00 | Train 6112 | from Marseille Saint-Charles | Swiss stops: - | +300s
+2025-07-09T10:52:00 | Train 6112 | from Marseille Saint-Charles | Swiss stops: - | +1800s
 Total delayed trains: 8
