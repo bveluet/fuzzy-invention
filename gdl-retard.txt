@@ -1,3 +1,4 @@
 2025-07-10T09:14:00 | Train 6250 | from Perpignan | Swiss stops: - | +600s
-2025-07-10T11:24:00 | Train 6964 | from Annecy | Swiss stops: - | +600s
-Total delayed trains: 2
+2025-07-10T11:29:00 | Train 6964 | from Annecy | Swiss stops: - | +900s
+2025-07-10T11:40:00 | Train 9242 | from 83016451 | Swiss stops: - | +600s
+Total delayed trains: 3
