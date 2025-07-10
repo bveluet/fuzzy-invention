@@ -4,4 +4,5 @@
 2025-07-10T17:27:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-07-10T17:44:00 | Train 9246 | from 83016451 | Swiss stops: - | +1800s
 2025-07-10T17:44:00 | Train 6978 | from Annecy | Swiss stops: - | +1800s
-Total delayed trains: 6
+2025-07-10T17:56:00 | Train 6922 | from Grenoble | Swiss stops: - | +600s
+Total delayed trains: 7
