@@ -1,4 +1,7 @@
 2025-07-11T16:47:00 | Train 6258 | from Perpignan | Swiss stops: - | +2100s
 2025-07-11T16:52:00 | Train 6220 | from Montpellier Saint-Roch | Swiss stops: - | +300s
 2025-07-11T18:06:00 | Train 6922 | from Grenoble | Swiss stops: - | +1200s
-Total delayed trains: 3
+2025-07-11T18:13:00 | Train 6628 | from Lyon Perrache | Swiss stops: - | +300s
+2025-07-11T18:27:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +300s
+2025-07-11T21:39:00 | Train 6038 | from Perpignan | Swiss stops: - | +900s
+Total delayed trains: 6
