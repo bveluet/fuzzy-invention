@@ -1,3 +1,2 @@
 2025-07-11T10:27:00 | Train 6112 | from Marseille Saint-Charles | Swiss stops: - | +300s
-2025-07-11T14:00:00 | Train 6174 | from Nice | Swiss stops: - | +600s
-Total delayed trains: 2
+Total delayed trains: 1
