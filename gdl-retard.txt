@@ -1,3 +1,4 @@
 2025-07-11T15:23:00 | Train 6204 | from Montpellier Saint-Roch | Swiss stops: - | +300s
-2025-07-11T16:37:00 | Train 6258 | from Perpignan | Swiss stops: - | +1500s
-Total delayed trains: 2
+2025-07-11T16:47:00 | Train 6258 | from Perpignan | Swiss stops: - | +2100s
+2025-07-11T16:52:00 | Train 6220 | from Montpellier Saint-Roch | Swiss stops: - | +300s
+Total delayed trains: 3
