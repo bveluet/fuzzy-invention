@@ -1,6 +1,4 @@
-2025-07-12T18:43:00 | Train 6206 | from Perpignan | Swiss stops: - | +1500s
-2025-07-12T18:47:00 | Train 6708 | from Mulhouse | Swiss stops: - | +300s
 2025-07-12T21:38:00 | Train 9250 | from 83016451 | Swiss stops: - | +1500s
 2025-07-12T21:38:00 | Train 6986 | from Aix-les-Bains le Revard | Swiss stops: - | +1500s
 2025-07-12T22:13:00 | Train 6038 | from Perpignan | Swiss stops: - | +3300s
-Total delayed trains: 5
+Total delayed trains: 3
