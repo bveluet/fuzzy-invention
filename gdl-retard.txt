@@ -1,4 +1,5 @@
 2025-07-12T13:24:00 | Train 6704 | from Mulhouse | Swiss stops: - | +600s
 2025-07-12T13:27:00 | Train 6116 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-07-12T17:56:00 | Train 6406 | from Modane | Swiss stops: - | +600s
-Total delayed trains: 3
+2025-07-12T17:56:00 | Train 6434 | from Bourg-Saint-Maurice | Swiss stops: - | +600s
+Total delayed trains: 4
