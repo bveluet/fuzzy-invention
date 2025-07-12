@@ -1,9 +1,7 @@
-2025-07-12T13:24:00 | Train 6704 | from Mulhouse | Swiss stops: - | +600s
 2025-07-12T13:37:00 | Train 6116 | from Marseille Saint-Charles | Swiss stops: - | +900s
 2025-07-12T14:17:00 | Train 6048 | from Perpignan | Swiss stops: - | +300s
 2025-07-12T14:28:00 | Train 6972 | from Aix-les-Bains le Revard | Swiss stops: - | +600s
-2025-07-12T17:24:00 | Train 9246 | from 83016451 | Swiss stops: - | +600s
-2025-07-12T17:24:00 | Train 6978 | from Aix-les-Bains le Revard | Swiss stops: - | +600s
+2025-07-12T17:12:00 | Train 6220 | from Montpellier Saint-Roch | Swiss stops: - | +1500s
 2025-07-12T17:56:00 | Train 6406 | from Modane | Swiss stops: - | +600s
 2025-07-12T17:56:00 | Train 6434 | from Bourg-Saint-Maurice | Swiss stops: - | +600s
-Total delayed trains: 8
+Total delayed trains: 6
