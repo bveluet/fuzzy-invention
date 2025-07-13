@@ -1,8 +1,7 @@
-2025-07-13T14:26:00 | Train 6972 | from Aix-les-Bains le Revard | Swiss stops: - | +600s
-2025-07-13T14:43:00 | Train 6620 | from Lyon Perrache | Swiss stops: - | +2100s
 2025-07-13T15:10:00 | Train 6622 | from Lyon Perrache | Swiss stops: - | +600s
 2025-07-13T15:23:00 | Train 6204 | from Montpellier Saint-Roch | Swiss stops: - | +300s
 2025-07-13T15:27:00 | Train 6120 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-07-13T17:29:00 | Train 9246 | from 83016451 | Swiss stops: - | +900s
 2025-07-13T17:29:00 | Train 6978 | from Annecy | Swiss stops: - | +900s
-Total delayed trains: 7
+2025-07-13T19:24:00 | Train 6980 | from Annecy | Swiss stops: - | +600s
+Total delayed trains: 6
