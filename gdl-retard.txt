@@ -1,2 +1,2 @@
-2025-07-13T10:33:00 | Train 6202 | from Perpignan | Swiss stops: - | +900s
+2025-07-13T10:38:00 | Train 6202 | from Perpignan | Swiss stops: - | +1200s
 Total delayed trains: 1
