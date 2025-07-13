@@ -1,9 +1,10 @@
-2025-07-13T17:05:00 | Train 6626 | from Lyon Perrache | Swiss stops: - | +300s
 2025-07-13T17:39:00 | Train 9246 | from 83016451 | Swiss stops: - | +1500s
 2025-07-13T17:39:00 | Train 6978 | from Annecy | Swiss stops: - | +1500s
 2025-07-13T17:44:00 | Train 6696 | from Saint-Étienne Châteaucreux | Swiss stops: - | +600s
 2025-07-13T17:51:00 | Train 6922 | from Grenoble | Swiss stops: - | +300s
-2025-07-13T19:49:00 | Train 6980 | from Annecy | Swiss stops: - | +2100s
-2025-07-13T20:01:00 | Train 6924 | from Grenoble | Swiss stops: - | +900s
+2025-07-13T19:59:00 | Train 6980 | from Annecy | Swiss stops: - | +2700s
+2025-07-13T20:06:00 | Train 6198 | from Miramas | Swiss stops: - | +1200s
+2025-07-13T20:06:00 | Train 6924 | from Grenoble | Swiss stops: - | +1200s
 2025-07-13T20:50:00 | Train 6168 | from Nice | Swiss stops: - | +3600s
-Total delayed trains: 8
+2025-07-13T21:19:00 | Train 9250 | from 83016451 | Swiss stops: - | +300s
+Total delayed trains: 9
