@@ -1,6 +1,10 @@
 2025-07-13T16:47:00 | Train 6706 | from Mulhouse | Swiss stops: - | +300s
-2025-07-13T17:29:00 | Train 9246 | from 83016451 | Swiss stops: - | +900s
-2025-07-13T17:29:00 | Train 6978 | from Annecy | Swiss stops: - | +900s
-2025-07-13T19:24:00 | Train 6980 | from Annecy | Swiss stops: - | +600s
+2025-07-13T16:52:00 | Train 6166 | from Nice | Swiss stops: - | +300s
+2025-07-13T16:56:00 | Train 6220 | from Montpellier Saint-Roch | Swiss stops: - | +300s
+2025-07-13T17:39:00 | Train 9246 | from 83016451 | Swiss stops: - | +1500s
+2025-07-13T17:39:00 | Train 6978 | from Annecy | Swiss stops: - | +1500s
+2025-07-13T17:39:00 | Train 6696 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
+2025-07-13T17:51:00 | Train 6922 | from Grenoble | Swiss stops: - | +300s
+2025-07-13T19:39:00 | Train 6980 | from Annecy | Swiss stops: - | +1500s
 2025-07-13T22:09:00 | Train 6186 | from Nice | Swiss stops: - | +1200s
-Total delayed trains: 5
+Total delayed trains: 9
