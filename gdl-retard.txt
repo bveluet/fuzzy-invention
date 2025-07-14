@@ -1,2 +1,2 @@
-2025-07-14T07:35:00 | Train 6692 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
+2025-07-14T11:55:00 | Train 6188 | from Nice | Swiss stops: - | +300s
 Total delayed trains: 1
