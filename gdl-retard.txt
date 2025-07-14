@@ -1,12 +1,13 @@
-2025-07-14T16:01:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +900s
-2025-07-14T16:01:00 | Train 6920 | from Grenoble | Swiss stops: - | +900s
 2025-07-14T16:11:00 | Train 6624 | from Lyon Perrache | Swiss stops: - | +300s
 2025-07-14T16:15:00 | Train 6258 | from Perpignan | Swiss stops: - | +300s
 2025-07-14T16:56:00 | Train 6166 | from Nice | Swiss stops: - | +300s
 2025-07-14T17:10:00 | Train 6626 | from Lyon Perrache | Swiss stops: - | +600s
 2025-07-14T17:19:00 | Train 9246 | from 83016451 | Swiss stops: - | +300s
 2025-07-14T17:19:00 | Train 6978 | from Annecy | Swiss stops: - | +300s
+2025-07-14T17:27:00 | Train 6124 | from Hyères | Swiss stops: - | +300s
+2025-07-14T17:27:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +300s
+2025-07-14T18:23:00 | Train 6206 | from Perpignan | Swiss stops: - | +300s
 2025-07-14T19:49:00 | Train 9254 | from 83016451 | Swiss stops: - | +2100s
 2025-07-14T19:49:00 | Train 6980 | from Annecy | Swiss stops: - | +2100s
 2025-07-14T20:33:00 | Train 6052 | from Perpignan | Swiss stops: - | +900s
-Total delayed trains: 11
+Total delayed trains: 12
