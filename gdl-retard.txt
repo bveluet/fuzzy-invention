@@ -1,6 +1,5 @@
-2025-07-15T11:39:00 | Train 6616 | from Lyon Perrache | Swiss stops: - | +300s
 2025-07-15T14:28:00 | Train 6972 | from Annecy | Swiss stops: - | +600s
 2025-07-15T15:37:00 | Train 6120 | from Marseille Saint-Charles | Swiss stops: - | +900s
 2025-07-15T16:42:00 | Train 6258 | from Perpignan | Swiss stops: - | +1800s
 2025-07-15T17:19:00 | Train 9246 | from 83016451 | Swiss stops: - | +300s
-Total delayed trains: 5
+Total delayed trains: 4
