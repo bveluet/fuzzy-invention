@@ -1,3 +1,2 @@
-2025-07-15T07:56:00 | Train 6906 | from Grenoble | Swiss stops: - | +600s
 2025-07-15T08:13:00 | Train 6200 | from Montpellier Saint-Roch | Swiss stops: - | +3300s
-Total delayed trains: 2
+Total delayed trains: 1
