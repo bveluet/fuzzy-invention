@@ -9,6 +9,6 @@
 2025-07-15T16:52:00 | Train 6220 | from Montpellier Saint-Roch | Swiss stops: - | +300s
 2025-07-15T17:27:00 | Train 6124 | from Hyères | Swiss stops: - | +300s
 2025-07-15T17:27:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +300s
-2025-07-15T17:29:00 | Train 6978 | from Annecy | Swiss stops: - | +900s
+2025-07-15T17:44:00 | Train 6978 | from Annecy | Swiss stops: - | +1800s
 2025-07-15T17:54:00 | Train 6696 | from Saint-Étienne Châteaucreux | Swiss stops: - | +1200s
 Total delayed trains: 13
