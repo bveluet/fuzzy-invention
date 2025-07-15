@@ -1,7 +1,3 @@
-2025-07-15T17:49:00 | Train 6978 | from Annecy | Swiss stops: - | +2100s
-2025-07-15T17:51:00 | Train 6922 | from Grenoble | Swiss stops: - | +300s
-2025-07-15T17:56:00 | Train 6162 | from Nice | Swiss stops: - | +300s
-2025-07-15T18:09:00 | Train 6696 | from Saint-Étienne Châteaucreux | Swiss stops: - | +2100s
 2025-07-15T18:27:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-07-15T20:00:00 | Train 6168 | from Nice | Swiss stops: - | +600s
-Total delayed trains: 6
+Total delayed trains: 2
