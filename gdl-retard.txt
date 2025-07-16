@@ -1,4 +1,5 @@
-2025-07-16T17:19:00 | Train 9246 | from 83016451 | Swiss stops: - | +300s
-2025-07-16T17:19:00 | Train 6978 | from Aix-les-Bains le Revard | Swiss stops: - | +300s
-2025-07-16T18:32:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +600s
-Total delayed trains: 3
+2025-07-16T17:24:00 | Train 9246 | from 83016451 | Swiss stops: - | +600s
+2025-07-16T17:24:00 | Train 6978 | from Aix-les-Bains le Revard | Swiss stops: - | +600s
+2025-07-16T18:37:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +900s
+2025-07-16T21:29:00 | Train 6038 | from Perpignan | Swiss stops: - | +300s
+Total delayed trains: 4
