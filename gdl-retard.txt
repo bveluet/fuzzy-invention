@@ -1,3 +1,1 @@
-2025-07-16T21:30:00 | Train 9250 | from 83016451 | Swiss stops: - | +600s
-2025-07-16T21:30:00 | Train 6986 | from Aix-les-Bains le Revard | Swiss stops: - | +600s
-Total delayed trains: 2
+Total delayed trains: 0
