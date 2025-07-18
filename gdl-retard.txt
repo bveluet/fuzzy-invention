@@ -1,11 +1,5 @@
-2025-07-18T14:13:00 | Train 6620 | from Lyon Perrache | Swiss stops: - | +300s
-2025-07-18T14:22:00 | Train 6048 | from Montpellier Sud de France | Swiss stops: - | +600s
-2025-07-18T14:23:00 | Train 6972 | from Aix-les-Bains le Revard | Swiss stops: - | +300s
-2025-07-18T14:25:00 | Train 6174 | from Nice | Swiss stops: - | +2100s
 2025-07-18T15:55:00 | Train 6176 | from Nice | Swiss stops: - | +300s
 2025-07-18T16:01:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +900s
 2025-07-18T16:01:00 | Train 6920 | from Grenoble | Swiss stops: - | +900s
-2025-07-18T16:18:00 | Train 6624 | from Lyon Perrache | Swiss stops: - | +600s
-2025-07-18T17:27:00 | Train 6124 | from Hyères | Swiss stops: - | +300s
-2025-07-18T17:27:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +300s
-Total delayed trains: 10
+2025-07-18T16:23:00 | Train 6624 | from Lyon Perrache | Swiss stops: - | +900s
+Total delayed trains: 4
