@@ -1,3 +1,6 @@
 2025-07-19T13:32:00 | Train 6116 | from Marseille Saint-Charles | Swiss stops: - | +600s
+2025-07-19T14:23:00 | Train 6972 | from Annecy | Swiss stops: - | +300s
 2025-07-19T15:02:00 | Train 6048 | from Perpignan | Swiss stops: - | +3000s
-Total delayed trains: 2
+2025-07-19T16:09:00 | Train 6482 | from Saint-Gervais-les-Bains Le Fayet | Swiss stops: - | +600s
+2025-07-19T17:32:00 | Train 6124 | from Hyères | Swiss stops: - | +600s
+Total delayed trains: 5
