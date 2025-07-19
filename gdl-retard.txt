@@ -1,15 +1,15 @@
 2025-07-19T15:02:00 | Train 6048 | from Perpignan | Swiss stops: - | +3000s
 2025-07-19T15:10:00 | Train 6622 | from Lyon Perrache | Swiss stops: - | +600s
-2025-07-19T16:00:00 | Train 6176 | from Nice | Swiss stops: - | +600s
 2025-07-19T16:01:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +900s
 2025-07-19T16:01:00 | Train 6920 | from Grenoble | Swiss stops: - | +900s
-2025-07-19T16:13:00 | Train 6624 | from Lyon Perrache | Swiss stops: - | +300s
+2025-07-19T16:05:00 | Train 6176 | from Nice | Swiss stops: - | +900s
+2025-07-19T16:18:00 | Train 6624 | from Lyon Perrache | Swiss stops: - | +600s
+2025-07-19T16:22:00 | Train 6258 | from Perpignan | Swiss stops: - | +600s
+2025-07-19T16:27:00 | Train 6122 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-07-19T17:19:00 | Train 9246 | from 83016451 | Swiss stops: - | +300s
 2025-07-19T17:19:00 | Train 6978 | from Annecy | Swiss stops: - | +300s
 2025-07-19T17:32:00 | Train 6124 | from Hyères | Swiss stops: - | +600s
 2025-07-19T17:32:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +600s
 2025-07-19T18:01:00 | Train 6406 | from Modane | Swiss stops: - | +900s
 2025-07-19T18:01:00 | Train 6434 | from Bourg-Saint-Maurice | Swiss stops: - | +900s
-2025-07-19T19:38:00 | Train 6484 | from Saint-Gervais-les-Bains Le Fayet | Swiss stops: - | +600s
-2025-07-19T19:38:00 | Train 6506 | from Évian-les-Bains | Swiss stops: - | +600s
 Total delayed trains: 14
