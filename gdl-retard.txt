@@ -1,1 +1,2 @@
-Total delayed trains: 0
+2025-07-20T07:32:00 | Train 6136 | from Marseille Saint-Charles | Swiss stops: - | +600s
+Total delayed trains: 1
