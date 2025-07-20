@@ -1,7 +1,7 @@
-2025-07-20T13:25:00 | Train 6694 | from Saint-Étienne Châteaucreux | Swiss stops: - | +1500s
-2025-07-20T13:25:00 | Train 6618 | from Lyon Perrache | Swiss stops: - | +1500s
-2025-07-20T14:26:00 | Train 6972 | from Annecy | Swiss stops: - | +600s
-2025-07-20T15:10:00 | Train 6622 | from Lyon Perrache | Swiss stops: - | +600s
-2025-07-20T16:05:00 | Train 6176 | from Nice | Swiss stops: - | +900s
+2025-07-20T14:31:00 | Train 6972 | from Annecy | Swiss stops: - | +900s
+2025-07-20T15:15:00 | Train 6622 | from Lyon Perrache | Swiss stops: - | +900s
+2025-07-20T15:23:00 | Train 6204 | from Montpellier Saint-Roch | Swiss stops: - | +300s
+2025-07-20T16:20:00 | Train 6176 | from Nice | Swiss stops: - | +1800s
 2025-07-20T17:29:00 | Train 9246 | from 83016451 | Swiss stops: - | +900s
+2025-07-20T17:29:00 | Train 6978 | from Annecy | Swiss stops: - | +900s
 Total delayed trains: 6
