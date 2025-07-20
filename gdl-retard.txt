@@ -1,7 +1,9 @@
-2025-07-20T11:10:00 | Train 6614 | from Lyon Perrache | Swiss stops: - | +600s
 2025-07-20T11:24:00 | Train 6418 | from Bourg-Saint-Maurice | Swiss stops: - | +600s
 2025-07-20T11:24:00 | Train 6964 | from Annecy | Swiss stops: - | +600s
 2025-07-20T11:35:00 | Train 9242 | from 83016451 | Swiss stops: - | +300s
 2025-07-20T12:22:00 | Train 32906 | from Lyon Part Dieu | Swiss stops: - | +300s
+2025-07-20T13:25:00 | Train 6694 | from Saint-Étienne Châteaucreux | Swiss stops: - | +1500s
+2025-07-20T13:25:00 | Train 6618 | from Lyon Perrache | Swiss stops: - | +1500s
+2025-07-20T14:26:00 | Train 6972 | from Annecy | Swiss stops: - | +600s
 2025-07-20T17:44:00 | Train 9246 | from 83016451 | Swiss stops: - | +1800s
-Total delayed trains: 6
+Total delayed trains: 8
