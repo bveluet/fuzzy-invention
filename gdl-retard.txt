@@ -3,11 +3,13 @@
 2025-07-20T16:19:00 | Train 6504 | from Évian-les-Bains | Swiss stops: - | +300s
 2025-07-20T16:20:00 | Train 6176 | from Nice | Swiss stops: - | +1800s
 2025-07-20T16:27:00 | Train 6122 | from Marseille Saint-Charles | Swiss stops: - | +300s
+2025-07-20T16:47:00 | Train 6706 | from Mulhouse | Swiss stops: - | +300s
 2025-07-20T17:17:00 | Train 6166 | from Nice | Swiss stops: - | +1800s
 2025-07-20T17:27:00 | Train 6124 | from Hyères | Swiss stops: - | +300s
 2025-07-20T17:27:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-07-20T17:44:00 | Train 9246 | from 83016451 | Swiss stops: - | +1800s
 2025-07-20T17:44:00 | Train 6978 | from Annecy | Swiss stops: - | +1800s
 2025-07-20T18:27:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +300s
+2025-07-20T19:23:00 | Train 6506 | from Évian-les-Bains | Swiss stops: - | +300s
 2025-07-20T21:54:00 | Train 6186 | from Nice | Swiss stops: - | +300s
-Total delayed trains: 12
+Total delayed trains: 14
