@@ -1,1 +1,2 @@
-Total delayed trains: 0
+2025-07-21T07:29:00 | Train 6960 | from Annecy | Swiss stops: - | +900s
+Total delayed trains: 1
