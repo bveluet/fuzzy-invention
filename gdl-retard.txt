@@ -1,7 +1,8 @@
 2025-07-21T19:07:00 | Train 6708 | from Mulhouse | Swiss stops: - | +1500s
+2025-07-21T20:27:00 | Train 6132 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-07-21T21:35:00 | Train 9250 | from 83016451 | Swiss stops: - | +900s
 2025-07-21T22:28:00 | Train 6052 | from Perpignan | Swiss stops: - | +7800s
 2025-07-21T22:54:00 | Train 6038 | from Perpignan | Swiss stops: - | +5400s
 2025-07-21T22:58:00 | Train 6180 | from Nice | Swiss stops: - | +8400s
 2025-07-21T23:10:00 | Train 6168 | from Nice | Swiss stops: - | +12000s
-Total delayed trains: 6
+Total delayed trains: 7
