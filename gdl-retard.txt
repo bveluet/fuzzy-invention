@@ -2,7 +2,10 @@
 2025-07-21T07:01:00 | Train 6902 | from Grenoble | Swiss stops: - | +900s
 2025-07-21T07:37:00 | Train 6690 | from Saint-Étienne Châteaucreux | Swiss stops: - | +2100s
 2025-07-21T07:39:00 | Train 6960 | from Annecy | Swiss stops: - | +1500s
+2025-07-21T07:56:00 | Train 6906 | from Grenoble | Swiss stops: - | +600s
 2025-07-21T08:00:00 | Train 6150 | from Toulon | Swiss stops: - | +600s
+2025-07-21T08:18:00 | Train 6608 | from Lyon Perrache | Swiss stops: - | +600s
 2025-07-21T08:41:00 | Train 6194 | from Miramas | Swiss stops: - | +3300s
 2025-07-21T09:48:00 | Train 6200 | from Montpellier Saint-Roch | Swiss stops: - | +9000s
-Total delayed trains: 7
+2025-07-21T11:29:00 | Train 6964 | from Annecy | Swiss stops: - | +900s
+Total delayed trains: 10
