@@ -1,12 +1,12 @@
-2025-07-21T17:39:00 | Train 6696 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
 2025-07-21T17:54:00 | Train 9246 | from 83016451 | Swiss stops: - | +2400s
 2025-07-21T18:13:00 | Train 6628 | from Lyon Perrache | Swiss stops: - | +300s
 2025-07-21T18:32:00 | Train 6124 | from Hyères | Swiss stops: - | +4200s
 2025-07-21T18:37:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +900s
 2025-07-21T19:07:00 | Train 6708 | from Mulhouse | Swiss stops: - | +1500s
+2025-07-21T20:34:00 | Train 6766 | from Besançon Viotte | Swiss stops: - | +1800s
 2025-07-21T21:35:00 | Train 9250 | from 83016451 | Swiss stops: - | +900s
 2025-07-21T21:35:00 | Train 6986 | from Annecy | Swiss stops: - | +900s
-2025-07-21T22:38:00 | Train 6180 | from Nice | Swiss stops: - | +7200s
-2025-07-21T22:54:00 | Train 6038 | from Perpignan | Swiss stops: - | +5400s
+2025-07-21T22:58:00 | Train 6180 | from Nice | Swiss stops: - | +8400s
 2025-07-21T23:20:00 | Train 6168 | from Nice | Swiss stops: - | +12600s
+2025-07-21T23:24:00 | Train 6038 | from Perpignan | Swiss stops: - | +7200s
 Total delayed trains: 11
