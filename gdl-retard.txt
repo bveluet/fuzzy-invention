@@ -1,5 +1,4 @@
 2025-07-22T12:20:00 | Train 9242 | from 83016451 | Swiss stops: - | +3000s
-2025-07-22T14:05:00 | Train 6174 | from Nice | Swiss stops: - | +900s
 2025-07-22T14:28:00 | Train 6972 | from Annecy | Swiss stops: - | +600s
 2025-07-22T17:24:00 | Train 9246 | from 83016451 | Swiss stops: - | +600s
-Total delayed trains: 4
+Total delayed trains: 3
