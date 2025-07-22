@@ -1,4 +1,5 @@
 2025-07-22T07:56:00 | Train 6194 | from Miramas | Swiss stops: - | +600s
 2025-07-22T07:56:00 | Train 6906 | from Grenoble | Swiss stops: - | +600s
-2025-07-22T11:24:00 | Train 6964 | from Annecy | Swiss stops: - | +600s
-Total delayed trains: 3
+2025-07-22T12:50:00 | Train 9242 | from 83016451 | Swiss stops: - | +4800s
+2025-07-22T13:24:00 | Train 6964 | from Annecy | Swiss stops: - | +7800s
+Total delayed trains: 4
