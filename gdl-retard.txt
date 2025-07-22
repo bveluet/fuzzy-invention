@@ -1,6 +1,5 @@
 2025-07-22T12:50:00 | Train 9242 | from 83016451 | Swiss stops: - | +4800s
-2025-07-22T13:10:00 | Train 6694 | from Saint-Étienne Châteaucreux | Swiss stops: - | +600s
-2025-07-22T13:10:00 | Train 6618 | from Lyon Perrache | Swiss stops: - | +600s
-2025-07-22T14:33:00 | Train 6972 | from Annecy | Swiss stops: - | +900s
+2025-07-22T13:15:00 | Train 6694 | from Saint-Étienne Châteaucreux | Swiss stops: - | +900s
+2025-07-22T13:15:00 | Train 6618 | from Lyon Perrache | Swiss stops: - | +900s
 2025-07-22T17:24:00 | Train 9246 | from 83016451 | Swiss stops: - | +600s
-Total delayed trains: 5
+Total delayed trains: 4
