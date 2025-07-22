@@ -4,7 +4,7 @@
 2025-07-22T17:44:00 | Train 6696 | from Saint-Étienne Châteaucreux | Swiss stops: - | +600s
 2025-07-22T17:56:00 | Train 6922 | from Grenoble | Swiss stops: - | +600s
 2025-07-22T18:27:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +300s
+2025-07-22T19:55:00 | Train 6168 | from Nice | Swiss stops: - | +300s
 2025-07-22T20:23:00 | Train 6052 | from Perpignan | Swiss stops: - | +300s
-2025-07-22T21:34:00 | Train 6038 | from Perpignan | Swiss stops: - | +600s
 2025-07-22T22:40:00 | Train 9250 | from 83016451 | Swiss stops: - | +4800s
 Total delayed trains: 9
