@@ -3,5 +3,7 @@
 2025-07-22T19:55:00 | Train 6168 | from Nice | Swiss stops: - | +300s
 2025-07-22T20:28:00 | Train 6052 | from Perpignan | Swiss stops: - | +600s
 2025-07-22T21:25:00 | Train 6986 | from Annecy | Swiss stops: - | +300s
+2025-07-22T21:39:00 | Train 6632 | from Lyon Perrache | Swiss stops: - | +6000s
+2025-07-22T21:41:00 | Train 6634 | from Lyon Perrache | Swiss stops: - | +1500s
 2025-07-22T22:40:00 | Train 9250 | from 83016451 | Swiss stops: - | +4800s
-Total delayed trains: 6
+Total delayed trains: 8
