@@ -1,4 +1,4 @@
 2025-07-23T14:17:00 | Train 6048 | from Perpignan | Swiss stops: - | +300s
 2025-07-23T15:55:00 | Train 6176 | from Nice | Swiss stops: - | +300s
-2025-07-23T16:47:00 | Train 6706 | from Mulhouse | Swiss stops: - | +300s
+2025-07-23T17:22:00 | Train 6706 | from Mulhouse | Swiss stops: - | +2400s
 Total delayed trains: 3
