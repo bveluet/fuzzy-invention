@@ -1,5 +1,5 @@
 2025-07-23T15:05:00 | Train 6622 | from Lyon Perrache | Swiss stops: - | +300s
 2025-07-23T15:55:00 | Train 6176 | from Nice | Swiss stops: - | +300s
-2025-07-23T17:22:00 | Train 6706 | from Mulhouse | Swiss stops: - | +2400s
+2025-07-23T17:42:00 | Train 6706 | from Mulhouse | Swiss stops: - | +3600s
 2025-07-23T20:23:00 | Train 6052 | from Perpignan | Swiss stops: - | +300s
 Total delayed trains: 4
