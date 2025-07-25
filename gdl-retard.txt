@@ -1,5 +1,1 @@
-2025-07-25T22:50:00 | Train 9250 | from 83016451 | Swiss stops: - | +5400s
-2025-07-25T23:00:00 | Train 6262 | from Montpellier Sud de France | Swiss stops: - | +7200s
-2025-07-25T23:04:00 | Train 6038 | from Perpignan | Swiss stops: - | +6000s
-2025-07-25T23:46:00 | Train 6634 | from Lyon Perrache | Swiss stops: - | +9000s
-Total delayed trains: 4
+Total delayed trains: 0
