@@ -2,7 +2,7 @@
 2025-07-25T19:44:00 | Train 6696 | from Saint-Étienne Châteaucreux | Swiss stops: - | +7800s
 2025-07-25T19:58:00 | Train 6206 | from Perpignan | Swiss stops: - | +6000s
 2025-07-25T19:58:00 | Train 6036 | from Montpellier Saint-Roch | Swiss stops: - | +6000s
-2025-07-25T20:07:00 | Train 6220 | from Montpellier Saint-Roch | Swiss stops: - | +12000s
+2025-07-25T20:17:00 | Train 6220 | from Montpellier Saint-Roch | Swiss stops: - | +12600s
 2025-07-25T20:50:00 | Train 6168 | from Nice | Swiss stops: - | +3600s
 2025-07-25T20:52:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +9000s
 2025-07-25T20:56:00 | Train 6198 | from Miramas | Swiss stops: - | +4200s
