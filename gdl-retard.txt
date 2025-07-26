@@ -1,3 +1,2 @@
-2025-07-26T11:26:00 | Train 6908 | from Grenoble | Swiss stops: - | +2400s
 2025-07-26T16:20:00 | Train 6176 | from Nice | Swiss stops: - | +1800s
-Total delayed trains: 2
+Total delayed trains: 1
