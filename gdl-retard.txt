@@ -1,3 +1,1 @@
-2025-07-31T18:47:00 | Train 6708 | from Mulhouse | Swiss stops: - | +300s
-2025-07-31T22:03:00 | Train 6038 | from Perpignan | Swiss stops: - | +2700s
-Total delayed trains: 2
+Total delayed trains: 0
