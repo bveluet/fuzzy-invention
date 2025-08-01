@@ -1,2 +1,2 @@
-2025-08-01T07:50:00 | Train 6692 | from Saint-Étienne Châteaucreux | Swiss stops: - | +1200s
+2025-08-01T08:10:00 | Train 6692 | from Saint-Étienne Châteaucreux | Swiss stops: - | +2400s
 Total delayed trains: 1
