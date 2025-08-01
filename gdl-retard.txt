@@ -2,4 +2,5 @@
 2025-08-01T08:28:00 | Train 6608 | from Lyon Perrache | Swiss stops: - | +1200s
 2025-08-01T08:51:00 | Train 6194 | from Miramas | Swiss stops: - | +300s
 2025-08-01T08:51:00 | Train 6906 | from Grenoble | Swiss stops: - | +300s
-Total delayed trains: 4
+2025-08-01T12:00:00 | Train 6188 | from Nice | Swiss stops: - | +600s
+Total delayed trains: 5
