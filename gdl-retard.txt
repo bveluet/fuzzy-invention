@@ -1,3 +1,5 @@
-2025-08-01T13:15:00 | Train 6694 | from Saint-Étienne Châteaucreux | Swiss stops: - | +900s
-2025-08-01T13:15:00 | Train 6618 | from Lyon Perrache | Swiss stops: - | +900s
-Total delayed trains: 2
+2025-08-01T16:47:00 | Train 6122 | from Marseille Saint-Charles | Swiss stops: - | +1500s
+2025-08-01T16:47:00 | Train 6706 | from Mulhouse | Swiss stops: - | +300s
+2025-08-01T17:24:00 | Train 9246 | from 83016451 | Swiss stops: - | +600s
+2025-08-01T17:24:00 | Train 6978 | from Annecy | Swiss stops: - | +600s
+Total delayed trains: 4
