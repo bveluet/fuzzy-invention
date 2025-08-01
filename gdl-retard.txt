@@ -3,4 +3,5 @@
 2025-08-01T17:24:00 | Train 6978 | from Annecy | Swiss stops: - | +600s
 2025-08-01T18:28:00 | Train 6206 | from Perpignan | Swiss stops: - | +600s
 2025-08-01T18:28:00 | Train 6036 | from Montpellier Saint-Roch | Swiss stops: - | +600s
-Total delayed trains: 5
+2025-08-01T21:29:00 | Train 9250 | from 83016451 | Swiss stops: - | +900s
+Total delayed trains: 6
