@@ -1,8 +1,7 @@
-2025-08-02T17:12:00 | Train 6258 | from Perpignan | Swiss stops: - | +3600s
 2025-08-02T17:29:00 | Train 9246 | from 83016451 | Swiss stops: - | +900s
 2025-08-02T17:29:00 | Train 6978 | from Annecy | Swiss stops: - | +900s
 2025-08-02T17:37:00 | Train 6124 | from Hyères | Swiss stops: - | +900s
 2025-08-02T17:37:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +900s
 2025-08-02T19:58:00 | Train 6484 | from Saint-Gervais-les-Bains Le Fayet | Swiss stops: - | +1800s
 2025-08-02T19:58:00 | Train 6506 | from Évian-les-Bains | Swiss stops: - | +1800s
-Total delayed trains: 7
+Total delayed trains: 6
