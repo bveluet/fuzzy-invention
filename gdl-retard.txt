@@ -1,6 +1,6 @@
 2025-08-03T11:24:00 | Train 6418 | from Bourg-Saint-Maurice | Swiss stops: - | +600s
 2025-08-03T11:24:00 | Train 6964 | from Annecy | Swiss stops: - | +600s
-2025-08-03T11:40:00 | Train 9242 | from 83016451 | Swiss stops: - | +600s
 2025-08-03T11:55:00 | Train 6188 | from Nice | Swiss stops: - | +300s
 2025-08-03T12:06:00 | Train 6616 | from Lyon Perrache | Swiss stops: - | +600s
+2025-08-03T14:21:00 | Train 6972 | from Annecy | Swiss stops: - | +300s
 Total delayed trains: 5
