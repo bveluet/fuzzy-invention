@@ -1,7 +1,6 @@
-2025-08-03T19:23:00 | Train 6506 | from Évian-les-Bains | Swiss stops: - | +300s
 2025-08-03T19:55:00 | Train 6168 | from Nice | Swiss stops: - | +300s
 2025-08-03T20:58:00 | Train 6180 | from Nice | Swiss stops: - | +1200s
 2025-08-03T21:44:00 | Train 9254 | from 83016451 | Swiss stops: - | +9000s
 2025-08-03T22:32:00 | Train 6144 | from Marseille Saint-Charles | Swiss stops: - | +600s
 2025-08-03T22:54:00 | Train 9250 | from 83016451 | Swiss stops: - | +6000s
-Total delayed trains: 6
+Total delayed trains: 5
