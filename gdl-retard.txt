@@ -2,6 +2,8 @@
 2025-08-03T16:15:00 | Train 6258 | from Perpignan | Swiss stops: - | +300s
 2025-08-03T16:24:00 | Train 6504 | from Évian-les-Bains | Swiss stops: - | +600s
 2025-08-03T16:55:00 | Train 6350 | from Grenoble | Swiss stops: - | +1500s
+2025-08-03T17:19:00 | Train 9246 | from 83016451 | Swiss stops: - | +300s
+2025-08-03T17:19:00 | Train 6978 | from Annecy | Swiss stops: - | +300s
 2025-08-03T21:04:00 | Train 9254 | from 83016451 | Swiss stops: - | +6600s
-2025-08-03T22:24:00 | Train 9250 | from 83016451 | Swiss stops: - | +4200s
-Total delayed trains: 6
+2025-08-03T22:44:00 | Train 9250 | from 83016451 | Swiss stops: - | +5400s
+Total delayed trains: 8
