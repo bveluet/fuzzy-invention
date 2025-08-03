@@ -1,4 +1,6 @@
 2025-08-03T14:17:00 | Train 6048 | from Perpignan | Swiss stops: - | +300s
 2025-08-03T14:21:00 | Train 6972 | from Annecy | Swiss stops: - | +300s
+2025-08-03T15:51:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +300s
+2025-08-03T16:24:00 | Train 6504 | from Évian-les-Bains | Swiss stops: - | +600s
 2025-08-03T20:54:00 | Train 9254 | from 83016451 | Swiss stops: - | +6000s
-Total delayed trains: 3
+Total delayed trains: 5
