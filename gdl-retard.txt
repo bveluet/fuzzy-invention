@@ -1,3 +1,5 @@
 2025-08-04T10:27:00 | Train 6112 | from Marseille Saint-Charles | Swiss stops: - | +300s
-2025-08-04T11:24:00 | Train 6964 | from Annecy | Swiss stops: - | +600s
-Total delayed trains: 2
+2025-08-04T11:34:00 | Train 6964 | from Annecy | Swiss stops: - | +1200s
+2025-08-04T12:00:00 | Train 6188 | from Nice | Swiss stops: - | +600s
+2025-08-04T14:17:00 | Train 6048 | from Perpignan | Swiss stops: - | +300s
+Total delayed trains: 4
