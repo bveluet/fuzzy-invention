@@ -4,7 +4,8 @@
 2025-08-04T15:23:00 | Train 6204 | from Montpellier Saint-Roch | Swiss stops: - | +300s
 2025-08-04T15:56:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +600s
 2025-08-04T15:56:00 | Train 6920 | from Grenoble | Swiss stops: - | +600s
-2025-08-04T17:27:00 | Train 6124 | from Hyères | Swiss stops: - | +300s
-2025-08-04T17:27:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +300s
-2025-08-04T20:25:00 | Train 6168 | from Nice | Swiss stops: - | +2100s
-Total delayed trains: 9
+2025-08-04T16:00:00 | Train 6176 | from Nice | Swiss stops: - | +600s
+2025-08-04T17:37:00 | Train 6124 | from Hyères | Swiss stops: - | +900s
+2025-08-04T17:37:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +900s
+2025-08-04T19:55:00 | Train 6168 | from Nice | Swiss stops: - | +300s
+Total delayed trains: 10
