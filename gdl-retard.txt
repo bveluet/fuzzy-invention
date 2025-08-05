@@ -1,1 +1,2 @@
-Total delayed trains: 0
+2025-08-05T11:35:00 | Train 9242 | from 83016451 | Swiss stops: - | +300s
+Total delayed trains: 1
