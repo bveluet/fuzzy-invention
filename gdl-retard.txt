@@ -1,1 +1,2 @@
-Total delayed trains: 0
+2025-08-05T06:31:00 | Train 6602 | from Lyon Perrache | Swiss stops: - | +900s
+Total delayed trains: 1
