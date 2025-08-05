@@ -1,3 +1,1 @@
-2025-08-05T07:51:00 | Train 6194 | from Miramas | Swiss stops: - | +300s
-2025-08-05T07:51:00 | Train 6906 | from Grenoble | Swiss stops: - | +300s
-Total delayed trains: 2
+Total delayed trains: 0
