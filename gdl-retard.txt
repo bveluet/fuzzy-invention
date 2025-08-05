@@ -1,4 +1,5 @@
 2025-08-05T11:35:00 | Train 9242 | from 83016451 | Swiss stops: - | +300s
 2025-08-05T11:39:00 | Train 6616 | from Lyon Perrache | Swiss stops: - | +300s
-2025-08-05T16:32:00 | Train 6258 | from Perpignan | Swiss stops: - | +1200s
-Total delayed trains: 3
+2025-08-05T13:37:00 | Train 6116 | from Marseille Saint-Charles | Swiss stops: - | +900s
+2025-08-05T16:22:00 | Train 6258 | from Perpignan | Swiss stops: - | +600s
+Total delayed trains: 4
