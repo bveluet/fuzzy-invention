@@ -1,3 +1,6 @@
 2025-08-06T07:25:00 | Train 6762 | from Besançon Viotte | Swiss stops: - | +900s
 2025-08-06T07:28:00 | Train 6760 | from Besançon Viotte | Swiss stops: - | +4800s
-Total delayed trains: 2
+2025-08-06T07:51:00 | Train 6194 | from Miramas | Swiss stops: - | +300s
+2025-08-06T07:51:00 | Train 6906 | from Grenoble | Swiss stops: - | +300s
+2025-08-06T08:15:00 | Train 6608 | from Lyon Perrache | Swiss stops: - | +300s
+Total delayed trains: 5
