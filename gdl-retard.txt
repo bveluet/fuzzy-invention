@@ -1,2 +1,2 @@
-2025-08-08T07:20:00 | Train 6762 | from Besançon Viotte | Swiss stops: - | +600s
+2025-08-08T07:15:00 | Train 6762 | from Besançon Viotte | Swiss stops: - | +300s
 Total delayed trains: 1
