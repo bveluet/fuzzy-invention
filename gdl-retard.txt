@@ -1,7 +1,8 @@
-2025-08-08T14:23:00 | Train 6972 | from Annecy | Swiss stops: - | +300s
 2025-08-08T15:05:00 | Train 6622 | from Lyon Perrache | Swiss stops: - | +300s
 2025-08-08T15:27:00 | Train 6120 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-08-08T16:35:00 | Train 6176 | from Nice | Swiss stops: - | +2700s
+2025-08-08T17:30:00 | Train 6626 | from Lyon Perrache | Swiss stops: - | +1800s
 2025-08-08T17:44:00 | Train 9246 | from 83016451 | Swiss stops: - | +1800s
 2025-08-08T17:44:00 | Train 6978 | from Annecy | Swiss stops: - | +1800s
-Total delayed trains: 6
+2025-08-08T18:04:00 | Train 6696 | from Saint-Étienne Châteaucreux | Swiss stops: - | +1800s
+Total delayed trains: 7
