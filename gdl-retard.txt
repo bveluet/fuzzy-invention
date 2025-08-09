@@ -1,6 +1,5 @@
-2025-08-09T18:47:00 | Train 6708 | from Mulhouse | Swiss stops: - | +300s
 2025-08-09T20:25:00 | Train 6168 | from Nice | Swiss stops: - | +2100s
 2025-08-09T20:48:00 | Train 6180 | from Nice | Swiss stops: - | +600s
-2025-08-09T22:14:00 | Train 6986 | from Annecy | Swiss stops: - | +3600s
 2025-08-09T22:24:00 | Train 9250 | from 83016451 | Swiss stops: - | +4200s
-Total delayed trains: 5
+2025-08-09T22:24:00 | Train 6986 | from Annecy | Swiss stops: - | +4200s
+Total delayed trains: 4
