@@ -3,7 +3,9 @@
 2025-08-09T17:37:00 | Train 6124 | from Hyères | Swiss stops: - | +900s
 2025-08-09T17:37:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +900s
 2025-08-09T17:39:00 | Train 6696 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
-2025-08-09T20:10:00 | Train 6168 | from Nice | Swiss stops: - | +1200s
+2025-08-09T18:47:00 | Train 6708 | from Mulhouse | Swiss stops: - | +300s
+2025-08-09T20:25:00 | Train 6168 | from Nice | Swiss stops: - | +2100s
 2025-08-09T20:48:00 | Train 6180 | from Nice | Swiss stops: - | +600s
+2025-08-09T21:24:00 | Train 6986 | from Annecy | Swiss stops: - | +600s
 2025-08-09T22:24:00 | Train 9250 | from 83016451 | Swiss stops: - | +4200s
-Total delayed trains: 8
+Total delayed trains: 10
