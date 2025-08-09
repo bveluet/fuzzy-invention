@@ -1,2 +1,2 @@
-2025-08-09T23:34:00 | Train 9250 | from 83016451 | Swiss stops: - | +8400s
+2025-08-09T23:44:00 | Train 9250 | from 83016451 | Swiss stops: - | +9000s
 Total delayed trains: 1
