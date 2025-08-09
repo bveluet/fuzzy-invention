@@ -3,4 +3,5 @@
 2025-08-09T14:49:00 | Train 6170 | from Nice | Swiss stops: - | +900s
 2025-08-09T15:00:00 | Train 6174 | from Nice | Swiss stops: - | +4200s
 2025-08-09T16:00:00 | Train 6176 | from Nice | Swiss stops: - | +600s
-Total delayed trains: 5
+2025-08-09T17:51:00 | Train 6434 | from Bourg-Saint-Maurice | Swiss stops: - | +300s
+Total delayed trains: 6
