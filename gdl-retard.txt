@@ -1,5 +1,6 @@
 2025-08-10T13:27:00 | Train 6116 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-08-10T14:13:00 | Train 6620 | from Lyon Perrache | Swiss stops: - | +300s
+2025-08-10T14:17:00 | Train 6048 | from Perpignan | Swiss stops: - | +300s
 2025-08-10T14:21:00 | Train 6972 | from Annecy | Swiss stops: - | +300s
-2025-08-10T16:19:00 | Train 6504 | from Évian-les-Bains | Swiss stops: - | +300s
-Total delayed trains: 4
+2025-08-10T15:23:00 | Train 6204 | from Montpellier Saint-Roch | Swiss stops: - | +300s
+Total delayed trains: 5
