@@ -1,8 +1,9 @@
 2025-08-10T15:28:00 | Train 6204 | from Montpellier Saint-Roch | Swiss stops: - | +600s
 2025-08-10T16:11:00 | Train 6624 | from Lyon Perrache | Swiss stops: - | +300s
+2025-08-10T16:35:00 | Train 6350 | from Grenoble | Swiss stops: - | +300s
 2025-08-10T16:56:00 | Train 6220 | from Montpellier Saint-Roch | Swiss stops: - | +300s
 2025-08-10T17:19:00 | Train 9246 | from 83016451 | Swiss stops: - | +300s
 2025-08-10T17:19:00 | Train 6978 | from Annecy | Swiss stops: - | +300s
 2025-08-10T18:23:00 | Train 6206 | from Perpignan | Swiss stops: - | +300s
 2025-08-10T21:19:00 | Train 9250 | from 83016451 | Swiss stops: - | +300s
-Total delayed trains: 7
+Total delayed trains: 8
