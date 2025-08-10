@@ -1,4 +1,4 @@
-2025-08-10T18:47:00 | Train 6708 | from Mulhouse | Swiss stops: - | +300s
+2025-08-10T20:13:00 | Train 6182 | from Nice | Swiss stops: - | +600s
 2025-08-10T20:14:00 | Train 6980 | from Annecy | Swiss stops: - | +3600s
 2025-08-10T20:28:00 | Train 6052 | from Perpignan | Swiss stops: - | +600s
 2025-08-10T22:13:00 | Train 6038 | from Perpignan | Swiss stops: - | +3300s
