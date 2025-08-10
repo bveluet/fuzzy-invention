@@ -1,1 +1,2 @@
-Total delayed trains: 0
+2025-08-10T14:21:00 | Train 6972 | from Annecy | Swiss stops: - | +300s
+Total delayed trains: 1
