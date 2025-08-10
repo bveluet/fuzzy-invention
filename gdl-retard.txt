@@ -1,3 +1,1 @@
-2025-08-10T22:13:00 | Train 6038 | from Perpignan | Swiss stops: - | +3300s
-2025-08-10T22:38:00 | Train 6358 | from Grenoble | Swiss stops: - | +300s
-Total delayed trains: 2
+Total delayed trains: 0
