@@ -1,10 +1,12 @@
-2025-08-11T16:57:00 | Train 6706 | from Mulhouse | Swiss stops: - | +900s
-2025-08-11T17:02:00 | Train 6220 | from Montpellier Saint-Roch | Swiss stops: - | +900s
 2025-08-11T17:44:00 | Train 9246 | from 83016451 | Swiss stops: - | +1800s
 2025-08-11T17:44:00 | Train 6978 | from Annecy | Swiss stops: - | +1800s
 2025-08-11T17:47:00 | Train 6124 | from Hyères | Swiss stops: - | +1500s
 2025-08-11T17:47:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +1500s
 2025-08-11T17:51:00 | Train 6922 | from Grenoble | Swiss stops: - | +300s
+2025-08-11T18:23:00 | Train 6206 | from Montpellier Saint-Roch | Swiss stops: - | +300s
 2025-08-11T18:23:00 | Train 6628 | from Lyon Perrache | Swiss stops: - | +900s
+2025-08-11T18:27:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +300s
+2025-08-11T19:56:00 | Train 6198 | from Miramas | Swiss stops: - | +600s
 2025-08-11T20:21:00 | Train 6924 | from Grenoble | Swiss stops: - | +2100s
-Total delayed trains: 9
+2025-08-11T20:28:00 | Train 6052 | from Perpignan | Swiss stops: - | +600s
+Total delayed trains: 11
