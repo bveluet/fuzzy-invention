@@ -1,7 +1,6 @@
-2025-08-11T20:11:00 | Train 6924 | from Grenoble | Swiss stops: - | +1500s
 2025-08-11T20:28:00 | Train 6052 | from Perpignan | Swiss stops: - | +600s
 2025-08-11T20:48:00 | Train 6180 | from Nice | Swiss stops: - | +600s
 2025-08-11T21:19:00 | Train 9250 | from 83016451 | Swiss stops: - | +300s
 2025-08-11T21:19:00 | Train 6986 | from Annecy | Swiss stops: - | +300s
 2025-08-11T21:38:00 | Train 6038 | from Perpignan | Swiss stops: - | +1200s
-Total delayed trains: 6
+Total delayed trains: 5
