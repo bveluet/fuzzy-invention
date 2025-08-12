@@ -1,11 +1,8 @@
-2025-08-12T15:51:00 | Train 6920 | from Grenoble | Swiss stops: - | +300s
-2025-08-12T15:55:00 | Train 6176 | from Nice | Swiss stops: - | +300s
-2025-08-12T17:51:00 | Train 6922 | from Grenoble | Swiss stops: - | +300s
-2025-08-12T17:54:00 | Train 9246 | from 83016451 | Swiss stops: - | +2400s
-2025-08-12T17:54:00 | Train 6978 | from Annecy | Swiss stops: - | +2400s
+2025-08-12T17:56:00 | Train 6922 | from Grenoble | Swiss stops: - | +600s
 2025-08-12T18:01:00 | Train 6162 | from Nice | Swiss stops: - | +600s
+2025-08-12T18:04:00 | Train 9246 | from 83016451 | Swiss stops: - | +3000s
+2025-08-12T18:04:00 | Train 6978 | from Annecy | Swiss stops: - | +3000s
 2025-08-12T18:52:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +1800s
-2025-08-12T20:33:00 | Train 6052 | from Perpignan | Swiss stops: - | +900s
-2025-08-12T21:19:00 | Train 9250 | from 83016451 | Swiss stops: - | +300s
+2025-08-12T20:43:00 | Train 6052 | from Perpignan | Swiss stops: - | +1500s
 2025-08-12T21:33:00 | Train 6038 | from Perpignan | Swiss stops: - | +900s
-Total delayed trains: 10
+Total delayed trains: 7
