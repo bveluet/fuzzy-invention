@@ -1,3 +1,4 @@
 2025-08-12T11:35:00 | Train 9242 | from 83016451 | Swiss stops: - | +300s
-2025-08-12T14:17:00 | Train 6048 | from Perpignan | Swiss stops: - | +300s
-Total delayed trains: 2
+2025-08-12T13:55:00 | Train 6174 | from Nice | Swiss stops: - | +300s
+2025-08-12T14:23:00 | Train 6972 | from Annecy | Swiss stops: - | +300s
+Total delayed trains: 3
