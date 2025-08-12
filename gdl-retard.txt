@@ -4,7 +4,7 @@
 2025-08-12T18:16:00 | Train 6162 | from Nice | Swiss stops: - | +1500s
 2025-08-12T18:33:00 | Train 6206 | from Montpellier Saint-Roch | Swiss stops: - | +900s
 2025-08-12T18:52:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +1800s
-2025-08-12T20:06:00 | Train 6924 | from Grenoble | Swiss stops: - | +1200s
+2025-08-12T20:11:00 | Train 6924 | from Grenoble | Swiss stops: - | +1500s
 2025-08-12T20:43:00 | Train 6052 | from Perpignan | Swiss stops: - | +1500s
-2025-08-12T21:33:00 | Train 6038 | from Perpignan | Swiss stops: - | +900s
+2025-08-12T21:43:00 | Train 6038 | from Perpignan | Swiss stops: - | +1500s
 Total delayed trains: 9
