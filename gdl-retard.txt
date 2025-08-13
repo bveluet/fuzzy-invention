@@ -1,16 +1,13 @@
-2025-08-13T16:32:00 | Train 6258 | from Perpignan | Swiss stops: - | +1200s
-2025-08-13T16:37:00 | Train 6122 | from Marseille Saint-Charles | Swiss stops: - | +900s
-2025-08-13T16:46:00 | Train 6920 | from Grenoble | Swiss stops: - | +3600s
 2025-08-13T16:48:00 | Train 6624 | from Lyon Perrache | Swiss stops: - | +2400s
 2025-08-13T16:52:00 | Train 6220 | from Montpellier Saint-Roch | Swiss stops: - | +300s
-2025-08-13T18:18:00 | Train 6628 | from Lyon Perrache | Swiss stops: - | +600s
 2025-08-13T18:23:00 | Train 6206 | from Montpellier Saint-Roch | Swiss stops: - | +300s
 2025-08-13T18:24:00 | Train 6696 | from Saint-Étienne Châteaucreux | Swiss stops: - | +3000s
 2025-08-13T18:27:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-08-13T18:30:00 | Train 6626 | from Lyon Perrache | Swiss stops: - | +5400s
 2025-08-13T18:51:00 | Train 6162 | from Nice | Swiss stops: - | +3600s
+2025-08-13T18:53:00 | Train 6628 | from Lyon Perrache | Swiss stops: - | +2700s
 2025-08-13T19:20:00 | Train 6630 | from Lyon Perrache | Swiss stops: - | +1200s
 2025-08-13T20:15:00 | Train 6168 | from Nice | Swiss stops: - | +1500s
 2025-08-13T20:43:00 | Train 6052 | from Perpignan | Swiss stops: - | +1500s
-2025-08-13T21:33:00 | Train 6038 | from Perpignan | Swiss stops: - | +900s
-Total delayed trains: 15
+2025-08-13T21:43:00 | Train 6038 | from Perpignan | Swiss stops: - | +1500s
+Total delayed trains: 12
