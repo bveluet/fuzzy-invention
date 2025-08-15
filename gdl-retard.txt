@@ -1,5 +1,5 @@
 2025-08-15T20:05:00 | Train 6168 | from Nice | Swiss stops: - | +900s
 2025-08-15T20:33:00 | Train 6052 | from Perpignan | Swiss stops: - | +900s
-2025-08-15T20:43:00 | Train 6180 | from Nice | Swiss stops: - | +300s
+2025-08-15T20:48:00 | Train 6180 | from Nice | Swiss stops: - | +600s
 2025-08-15T21:43:00 | Train 6038 | from Perpignan | Swiss stops: - | +1500s
 Total delayed trains: 4
