@@ -1,3 +1,4 @@
-2025-08-15T08:32:00 | Train 6700 | from Mulhouse | Swiss stops: - | +6600s
+2025-08-15T08:52:00 | Train 6700 | from Mulhouse | Swiss stops: - | +7800s
+2025-08-15T10:56:00 | Train 6254 | from Perpignan | Swiss stops: - | +300s
 2025-08-15T12:24:00 | Train 6964 | from Annecy | Swiss stops: - | +4200s
-Total delayed trains: 2
+Total delayed trains: 3
