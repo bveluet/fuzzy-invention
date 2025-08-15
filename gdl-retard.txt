@@ -1,9 +1,12 @@
-2025-08-15T12:20:00 | Train 9242 | from 83016451 | Swiss stops: - | +3000s
 2025-08-15T13:15:00 | Train 6694 | from Saint-Étienne Châteaucreux | Swiss stops: - | +900s
 2025-08-15T13:15:00 | Train 6618 | from Lyon Perrache | Swiss stops: - | +900s
+2025-08-15T13:19:00 | Train 6704 | from Mulhouse | Swiss stops: - | +300s
 2025-08-15T13:24:00 | Train 6964 | from Annecy | Swiss stops: - | +7800s
+2025-08-15T13:27:00 | Train 6116 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-08-15T14:15:00 | Train 6174 | from Nice | Swiss stops: - | +1500s
 2025-08-15T14:17:00 | Train 6048 | from Perpignan | Swiss stops: - | +300s
 2025-08-15T14:39:00 | Train 6170 | from Nice | Swiss stops: - | +300s
 2025-08-15T14:43:00 | Train 6620 | from Lyon Perrache | Swiss stops: - | +2100s
-Total delayed trains: 8
+2025-08-15T15:56:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +600s
+2025-08-15T15:56:00 | Train 6920 | from Grenoble | Swiss stops: - | +600s
+Total delayed trains: 11
