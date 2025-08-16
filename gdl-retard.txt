@@ -1,8 +1,7 @@
-2025-08-16T16:52:00 | Train 6220 | from Montpellier Saint-Roch | Swiss stops: - | +300s
-2025-08-16T17:24:00 | Train 9246 | from 83016451 | Swiss stops: - | +600s
-2025-08-16T17:24:00 | Train 6978 | from Aix-les-Bains le Revard | Swiss stops: - | +600s
+2025-08-16T17:19:00 | Train 9246 | from 83016451 | Swiss stops: - | +300s
+2025-08-16T17:19:00 | Train 6978 | from Aix-les-Bains le Revard | Swiss stops: - | +300s
 2025-08-16T18:27:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-08-16T18:48:00 | Train 6206 | from Perpignan | Swiss stops: - | +1800s
 2025-08-16T20:23:00 | Train 6052 | from Perpignan | Swiss stops: - | +300s
 2025-08-16T20:58:00 | Train 6180 | from Nice | Swiss stops: - | +1200s
-Total delayed trains: 7
+Total delayed trains: 6
