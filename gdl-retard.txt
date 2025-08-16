@@ -1,7 +1,11 @@
-2025-08-16T14:27:00 | Train 6048 | from Perpignan | Swiss stops: - | +900s
+2025-08-16T14:22:00 | Train 6048 | from Perpignan | Swiss stops: - | +600s
+2025-08-16T15:51:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +300s
+2025-08-16T15:51:00 | Train 6920 | from Grenoble | Swiss stops: - | +300s
 2025-08-16T16:14:00 | Train 6482 | from Saint-Gervais-les-Bains Le Fayet | Swiss stops: - | +900s
 2025-08-16T16:15:00 | Train 6176 | from Nice | Swiss stops: - | +1500s
+2025-08-16T16:27:00 | Train 6258 | from Perpignan | Swiss stops: - | +900s
+2025-08-16T16:27:00 | Train 6122 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-08-16T17:19:00 | Train 9246 | from 83016451 | Swiss stops: - | +300s
 2025-08-16T17:19:00 | Train 6978 | from Aix-les-Bains le Revard | Swiss stops: - | +300s
 2025-08-16T18:23:00 | Train 6206 | from Perpignan | Swiss stops: - | +300s
-Total delayed trains: 6
+Total delayed trains: 10
