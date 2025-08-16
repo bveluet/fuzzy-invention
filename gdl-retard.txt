@@ -3,7 +3,6 @@
 2025-08-16T11:35:00 | Train 9242 | from 83016451 | Swiss stops: - | +300s
 2025-08-16T12:40:00 | Train 6172 | from Nice | Swiss stops: - | +300s
 2025-08-16T12:50:00 | Train 6184 | from Nice | Swiss stops: - | +300s
-2025-08-16T13:19:00 | Train 6704 | from Mulhouse | Swiss stops: - | +300s
 2025-08-16T14:27:00 | Train 6048 | from Perpignan | Swiss stops: - | +900s
 2025-08-16T17:19:00 | Train 9246 | from 83016451 | Swiss stops: - | +300s
-Total delayed trains: 8
+Total delayed trains: 7
