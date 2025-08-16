@@ -8,6 +8,4 @@
 2025-08-16T17:19:00 | Train 9246 | from 83016451 | Swiss stops: - | +300s
 2025-08-16T17:19:00 | Train 6978 | from Aix-les-Bains le Revard | Swiss stops: - | +300s
 2025-08-16T18:23:00 | Train 6206 | from Perpignan | Swiss stops: - | +300s
-2025-08-16T19:33:00 | Train 6484 | from Saint-Gervais-les-Bains Le Fayet | Swiss stops: - | +300s
-2025-08-16T19:33:00 | Train 6506 | from Évian-les-Bains | Swiss stops: - | +300s
-Total delayed trains: 12
+Total delayed trains: 10
