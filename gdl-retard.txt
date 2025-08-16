@@ -1,6 +1,6 @@
 2025-08-16T18:27:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-08-16T18:48:00 | Train 6206 | from Perpignan | Swiss stops: - | +1800s
-2025-08-16T20:23:00 | Train 6052 | from Perpignan | Swiss stops: - | +300s
+2025-08-16T20:28:00 | Train 6052 | from Perpignan | Swiss stops: - | +600s
 2025-08-16T21:08:00 | Train 6180 | from Nice | Swiss stops: - | +1800s
 2025-08-16T21:23:00 | Train 6038 | from Perpignan | Swiss stops: - | +300s
 Total delayed trains: 5
