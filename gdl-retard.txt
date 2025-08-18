@@ -1,4 +1,6 @@
+2025-08-18T07:32:00 | Train 6136 | from Marseille Saint-Charles | Swiss stops: - | +600s
+2025-08-18T07:35:00 | Train 6692 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
 2025-08-18T08:41:00 | Train 6194 | from Miramas | Swiss stops: - | +3300s
 2025-08-18T08:41:00 | Train 6906 | from Grenoble | Swiss stops: - | +3300s
 2025-08-18T08:52:00 | Train 6106 | from Marseille Saint-Charles | Swiss stops: - | +1800s
-Total delayed trains: 3
+Total delayed trains: 5
