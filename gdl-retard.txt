@@ -1,3 +1,5 @@
+2025-08-19T15:51:00 | Train 6920 | from Grenoble | Swiss stops: - | +300s
+2025-08-19T15:55:00 | Train 6176 | from Nice | Swiss stops: - | +300s
 2025-08-19T17:24:00 | Train 9246 | from 83016451 | Swiss stops: - | +600s
 2025-08-19T17:24:00 | Train 6978 | from Annecy | Swiss stops: - | +600s
-Total delayed trains: 2
+Total delayed trains: 4
