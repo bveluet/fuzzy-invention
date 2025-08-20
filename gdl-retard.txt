@@ -1,7 +1,6 @@
-2025-08-20T06:43:00 | Train 6102 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-08-20T07:43:00 | Train 6200 | from Montpellier Saint-Roch | Swiss stops: - | +1500s
 2025-08-20T07:51:00 | Train 6194 | from Miramas | Swiss stops: - | +300s
 2025-08-20T07:51:00 | Train 6906 | from Grenoble | Swiss stops: - | +300s
-2025-08-20T08:25:00 | Train 6150 | from Toulon | Swiss stops: - | +2100s
+2025-08-20T08:15:00 | Train 6150 | from Toulon | Swiss stops: - | +1500s
 2025-08-20T08:42:00 | Train 6106 | from Marseille Saint-Charles | Swiss stops: - | +1200s
-Total delayed trains: 6
+Total delayed trains: 5
