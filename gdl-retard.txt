@@ -1,2 +1,2 @@
-2025-08-20T07:33:00 | Train 6200 | from Montpellier Saint-Roch | Swiss stops: - | +900s
+2025-08-20T07:43:00 | Train 6200 | from Montpellier Saint-Roch | Swiss stops: - | +1500s
 Total delayed trains: 1
