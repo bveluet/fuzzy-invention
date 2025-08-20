@@ -1,1 +1,2 @@
-Total delayed trains: 0
+2025-08-20T14:32:00 | Train 6048 | from Perpignan | Swiss stops: - | +1200s
+Total delayed trains: 1
