@@ -1,11 +1,10 @@
-2025-08-21T17:39:00 | Train 6696 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
 2025-08-21T17:51:00 | Train 6922 | from Grenoble | Swiss stops: - | +300s
 2025-08-21T18:14:00 | Train 9246 | from 83016451 | Swiss stops: - | +3600s
 2025-08-21T18:22:00 | Train 6124 | from Hyères | Swiss stops: - | +3600s
 2025-08-21T18:22:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +3600s
 2025-08-21T18:28:00 | Train 6206 | from Montpellier Saint-Roch | Swiss stops: - | +600s
 2025-08-21T19:02:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +2400s
-2025-08-21T20:11:00 | Train 6924 | from Grenoble | Swiss stops: - | +1500s
+2025-08-21T20:06:00 | Train 6924 | from Grenoble | Swiss stops: - | +1200s
 2025-08-21T20:27:00 | Train 6132 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-08-21T21:28:00 | Train 6038 | from Perpignan | Swiss stops: - | +600s
-Total delayed trains: 10
+Total delayed trains: 9
