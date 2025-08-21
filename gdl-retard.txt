@@ -1,10 +1,7 @@
-2025-08-21T18:14:00 | Train 9246 | from 83016451 | Swiss stops: - | +3600s
-2025-08-21T18:22:00 | Train 6124 | from Hyères | Swiss stops: - | +3600s
-2025-08-21T18:22:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +3600s
-2025-08-21T18:28:00 | Train 6206 | from Montpellier Saint-Roch | Swiss stops: - | +600s
 2025-08-21T18:52:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +1800s
+2025-08-21T19:55:00 | Train 6168 | from Nice | Swiss stops: - | +300s
 2025-08-21T19:56:00 | Train 6924 | from Grenoble | Swiss stops: - | +600s
 2025-08-21T20:27:00 | Train 6132 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-08-21T21:19:00 | Train 9250 | from 83016451 | Swiss stops: - | +300s
 2025-08-21T21:19:00 | Train 6986 | from Annecy | Swiss stops: - | +300s
-Total delayed trains: 9
+Total delayed trains: 6
