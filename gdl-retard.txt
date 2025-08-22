@@ -8,5 +8,6 @@
 2025-08-22T17:27:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-08-22T19:18:00 | Train 6206 | from Perpignan | Swiss stops: - | +3600s
 2025-08-22T19:18:00 | Train 6036 | from Montpellier Saint-Roch | Swiss stops: - | +3600s
-2025-08-22T20:23:00 | Train 6052 | from Perpignan | Swiss stops: - | +300s
-Total delayed trains: 11
+2025-08-22T20:48:00 | Train 6052 | from Perpignan | Swiss stops: - | +1800s
+2025-08-22T21:43:00 | Train 6038 | from Perpignan | Swiss stops: - | +1500s
+Total delayed trains: 12
