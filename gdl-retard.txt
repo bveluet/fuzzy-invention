@@ -1,3 +1,5 @@
 2025-08-22T14:32:00 | Train 6048 | from Montpellier Sud de France | Swiss stops: - | +1200s
-2025-08-22T16:52:00 | Train 6258 | from Perpignan | Swiss stops: - | +2400s
-Total delayed trains: 2
+2025-08-22T16:06:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +1200s
+2025-08-22T16:42:00 | Train 6258 | from Perpignan | Swiss stops: - | +1800s
+2025-08-22T19:03:00 | Train 6206 | from Perpignan | Swiss stops: - | +2700s
+Total delayed trains: 4
