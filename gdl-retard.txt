@@ -1,2 +1,5 @@
+2025-08-23T15:51:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +300s
+2025-08-23T15:51:00 | Train 6920 | from Grenoble | Swiss stops: - | +300s
 2025-08-23T16:52:00 | Train 6220 | from Montpellier Saint-Roch | Swiss stops: - | +300s
-Total delayed trains: 1
+2025-08-23T18:23:00 | Train 6206 | from Perpignan | Swiss stops: - | +300s
+Total delayed trains: 4
