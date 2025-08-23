@@ -1,3 +1,2 @@
 2025-08-23T16:52:00 | Train 6220 | from Montpellier Saint-Roch | Swiss stops: - | +300s
-2025-08-23T17:51:00 | Train 6434 | from Bourg-Saint-Maurice | Swiss stops: - | +300s
-Total delayed trains: 2
+Total delayed trains: 1
