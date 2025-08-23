@@ -1,2 +1,1 @@
-2025-08-23T22:16:00 | Train 6262 | from Montpellier Sud de France | Swiss stops: - | +4800s
-Total delayed trains: 1
+Total delayed trains: 0
