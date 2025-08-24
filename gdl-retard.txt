@@ -1,2 +1,1 @@
-2025-08-24T22:37:00 | Train 6144 | from Marseille Saint-Charles | Swiss stops: - | +900s
-Total delayed trains: 1
+Total delayed trains: 0
