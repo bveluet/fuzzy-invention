@@ -1,2 +1,2 @@
-2025-08-26T07:55:00 | Train 6150 | from Toulon | Swiss stops: - | +300s
+2025-08-26T06:43:00 | Train 6102 | from Marseille Saint-Charles | Swiss stops: - | +300s
 Total delayed trains: 1
