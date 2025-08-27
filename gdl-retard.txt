@@ -1,5 +1,4 @@
 2025-08-27T07:35:00 | Train 6692 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
-2025-08-27T07:55:00 | Train 6150 | from Toulon | Swiss stops: - | +300s
-2025-08-27T08:13:00 | Train 6608 | from Lyon Perrache | Swiss stops: - | +300s
+2025-08-27T08:23:00 | Train 6608 | from Lyon Perrache | Swiss stops: - | +900s
 2025-08-27T13:20:00 | Train 6188 | from Nice | Swiss stops: - | +5400s
-Total delayed trains: 4
+Total delayed trains: 3
