@@ -1,6 +1,6 @@
 2025-08-27T11:22:00 | Train 6112 | from Marseille Saint-Charles | Swiss stops: - | +3600s
-2025-08-27T13:05:00 | Train 6694 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
-2025-08-27T13:05:00 | Train 6618 | from Lyon Perrache | Swiss stops: - | +300s
+2025-08-27T13:10:00 | Train 6694 | from Saint-Étienne Châteaucreux | Swiss stops: - | +600s
+2025-08-27T13:10:00 | Train 6618 | from Lyon Perrache | Swiss stops: - | +600s
 2025-08-27T13:20:00 | Train 6188 | from Nice | Swiss stops: - | +5400s
 2025-08-27T13:27:00 | Train 6116 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-08-27T14:15:00 | Train 6174 | from Nice | Swiss stops: - | +1500s
