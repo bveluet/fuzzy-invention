@@ -1,6 +1,5 @@
-2025-08-27T07:38:00 | Train 6200 | from Montpellier Saint-Roch | Swiss stops: - | +1200s
-2025-08-27T07:47:00 | Train 6136 | from Marseille Saint-Charles | Swiss stops: - | +1500s
-2025-08-27T08:00:00 | Train 6150 | from Toulon | Swiss stops: - | +600s
+2025-08-27T07:35:00 | Train 6692 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
+2025-08-27T07:55:00 | Train 6150 | from Toulon | Swiss stops: - | +300s
 2025-08-27T08:13:00 | Train 6608 | from Lyon Perrache | Swiss stops: - | +300s
 2025-08-27T13:20:00 | Train 6188 | from Nice | Swiss stops: - | +5400s
-Total delayed trains: 5
+Total delayed trains: 4
