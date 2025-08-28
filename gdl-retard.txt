@@ -1,8 +1,8 @@
-2025-08-28T18:00:00 | Train 6176 | from Nice | Swiss stops: - | +7800s
 2025-08-28T18:08:00 | Train 6204 | from Montpellier Saint-Roch | Swiss stops: - | +10200s
 2025-08-28T18:12:00 | Train 6258 | from Perpignan | Swiss stops: - | +7200s
 2025-08-28T18:14:00 | Train 9246 | from 83016451 | Swiss stops: - | +3600s
 2025-08-28T18:24:00 | Train 6978 | from Annecy | Swiss stops: - | +4200s
+2025-08-28T18:30:00 | Train 6176 | from Nice | Swiss stops: - | +9600s
 2025-08-28T18:31:00 | Train 6162 | from Nice | Swiss stops: - | +2400s
 2025-08-28T18:47:00 | Train 6220 | from Montpellier Saint-Roch | Swiss stops: - | +7200s
 2025-08-28T19:40:00 | Train 6626 | from Lyon Perrache | Swiss stops: - | +9600s
