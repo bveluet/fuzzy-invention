@@ -1,4 +1,5 @@
 2025-08-29T09:36:00 | Train 6194 | from Miramas | Swiss stops: - | +3000s
 2025-08-29T10:23:00 | Train 6202 | from Perpignan | Swiss stops: - | +300s
 2025-08-29T10:23:00 | Train 6030 | from Montpellier Saint-Roch | Swiss stops: - | +300s
-Total delayed trains: 3
+2025-08-29T11:29:00 | Train 6964 | from Annecy | Swiss stops: - | +900s
+Total delayed trains: 4
