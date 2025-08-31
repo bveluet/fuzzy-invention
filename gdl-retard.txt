@@ -1,8 +1,7 @@
-2025-08-31T11:46:00 | Train 6254 | from Perpignan | Swiss stops: - | +3300s
-2025-08-31T11:55:00 | Train 6188 | from Nice | Swiss stops: - | +300s
 2025-08-31T12:30:00 | Train 9242 | from 83016451 | Swiss stops: - | +3600s
 2025-08-31T13:05:00 | Train 6694 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
 2025-08-31T13:05:00 | Train 6618 | from Lyon Perrache | Swiss stops: - | +300s
 2025-08-31T14:00:00 | Train 6174 | from Nice | Swiss stops: - | +600s
+2025-08-31T14:13:00 | Train 6620 | from Lyon Perrache | Swiss stops: - | +300s
 2025-08-31T16:57:00 | Train 6166 | from Nice | Swiss stops: - | +600s
-Total delayed trains: 7
+Total delayed trains: 6
