@@ -1,5 +1,7 @@
-2025-09-01T17:19:00 | Train 9246 | from 83016451 | Swiss stops: - | +300s
-2025-09-01T17:19:00 | Train 6978 | from Annecy | Swiss stops: - | +300s
-2025-09-01T17:32:00 | Train 6124 | from Hyères | Swiss stops: - | +600s
-2025-09-01T17:32:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +600s
-Total delayed trains: 4
+2025-09-01T17:29:00 | Train 9246 | from 83016451 | Swiss stops: - | +900s
+2025-09-01T17:29:00 | Train 6978 | from Annecy | Swiss stops: - | +900s
+2025-09-01T17:44:00 | Train 6696 | from Saint-Étienne Châteaucreux | Swiss stops: - | +600s
+2025-09-01T17:47:00 | Train 6124 | from Hyères | Swiss stops: - | +1500s
+2025-09-01T17:47:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +1500s
+2025-09-01T17:51:00 | Train 6922 | from Grenoble | Swiss stops: - | +300s
+Total delayed trains: 6
