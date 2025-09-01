@@ -3,8 +3,8 @@
 2025-09-01T17:44:00 | Train 6696 | from Saint-Étienne Châteaucreux | Swiss stops: - | +600s
 2025-09-01T17:47:00 | Train 6124 | from Hyères | Swiss stops: - | +1500s
 2025-09-01T17:47:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +1500s
-2025-09-01T17:51:00 | Train 6922 | from Grenoble | Swiss stops: - | +300s
+2025-09-01T17:56:00 | Train 6922 | from Grenoble | Swiss stops: - | +600s
 2025-09-01T20:00:00 | Train 6168 | from Nice | Swiss stops: - | +600s
-2025-09-01T20:11:00 | Train 6198 | from Miramas | Swiss stops: - | +1500s
+2025-09-01T20:06:00 | Train 6198 | from Miramas | Swiss stops: - | +1200s
 2025-09-01T21:29:00 | Train 6180 | from Nice | Swiss stops: - | +2700s
 Total delayed trains: 9
