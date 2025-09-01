@@ -1,3 +1,6 @@
+2025-09-01T06:52:00 | Train 6902 | from Grenoble | Swiss stops: - | +300s
 2025-09-01T07:20:00 | Train 6960 | from Annecy | Swiss stops: - | +300s
-2025-09-01T08:06:00 | Train 6150 | from Toulon | Swiss stops: - | +900s
-Total delayed trains: 2
+2025-09-01T07:26:00 | Train 6762 | from Besançon Viotte | Swiss stops: - | +900s
+2025-09-01T08:16:00 | Train 6150 | from Toulon | Swiss stops: - | +1500s
+2025-09-01T08:28:00 | Train 6106 | from Marseille Saint-Charles | Swiss stops: - | +300s
+Total delayed trains: 5
