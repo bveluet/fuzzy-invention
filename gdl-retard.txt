@@ -1,7 +1,5 @@
-2025-09-02T08:22:00 | Train 6194 | from Miramas | Swiss stops: - | +2100s
-2025-09-02T08:22:00 | Train 6906 | from Grenoble | Swiss stops: - | +2100s
 2025-09-02T08:53:00 | Train 6702 | from Mulhouse | Swiss stops: - | +600s
-2025-09-02T10:05:00 | Train 6250 | from Perpignan | Swiss stops: - | +3600s
 2025-09-02T10:13:00 | Train 6106 | from Marseille Saint-Charles | Swiss stops: - | +6600s
 2025-09-02T10:29:00 | Train 6612 | from Lyon Perrache | Swiss stops: - | +1200s
-Total delayed trains: 6
+2025-09-02T10:45:00 | Train 6250 | from Perpignan | Swiss stops: - | +6000s
+Total delayed trains: 4
