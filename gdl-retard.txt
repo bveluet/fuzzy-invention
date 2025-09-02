@@ -1,2 +1,2 @@
-2025-09-02T06:49:00 | Train 6760 | from Besançon Viotte | Swiss stops: - | +2400s
+2025-09-02T06:40:00 | Train 6642 | from Lyon Perrache | Swiss stops: - | +300s
 Total delayed trains: 1
