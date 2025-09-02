@@ -1,7 +1,6 @@
-2025-09-02T11:02:00 | Train 6908 | from Grenoble | Swiss stops: - | +900s
 2025-09-02T11:09:00 | Train 6612 | from Lyon Perrache | Swiss stops: - | +3600s
-2025-09-02T11:11:00 | Train 6614 | from Lyon Perrache | Swiss stops: - | +600s
 2025-09-02T13:28:00 | Train 6116 | from Marseille Saint-Charles | Swiss stops: - | +300s
+2025-09-02T14:22:00 | Train 6972 | from Annecy | Swiss stops: - | +300s
 2025-09-02T14:33:00 | Train 6048 | from Montpellier Sud de France | Swiss stops: - | +1200s
 2025-09-02T17:29:00 | Train 9246 | from 83016451 | Swiss stops: - | +900s
-Total delayed trains: 6
+Total delayed trains: 5
