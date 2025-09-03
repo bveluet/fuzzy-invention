@@ -1,3 +1,2 @@
-2025-09-03T12:00:00 | Train 9242 | from 83016451 | Swiss stops: - | +1800s
 2025-09-03T13:28:00 | Train 6116 | from Marseille Saint-Charles | Swiss stops: - | +300s
-Total delayed trains: 2
+Total delayed trains: 1
