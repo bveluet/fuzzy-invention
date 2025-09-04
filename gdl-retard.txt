@@ -1,1 +1,2 @@
-Total delayed trains: 0
+2025-09-04T07:41:00 | Train 6692 | from Saint-Étienne Châteaucreux | Swiss stops: - | +600s
+Total delayed trains: 1
