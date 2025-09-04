@@ -1,2 +1,5 @@
+2025-09-04T06:21:00 | Train 6602 | from Lyon Perrache | Swiss stops: - | +300s
 2025-09-04T07:46:00 | Train 6692 | from Saint-Étienne Châteaucreux | Swiss stops: - | +900s
-Total delayed trains: 1
+2025-09-04T07:57:00 | Train 6194 | from Miramas | Swiss stops: - | +600s
+2025-09-04T07:57:00 | Train 6906 | from Grenoble | Swiss stops: - | +600s
+Total delayed trains: 4
