@@ -1,6 +1,7 @@
 2025-09-04T15:27:00 | Train 6120 | from Marseille Saint-Charles | Swiss stops: - | +300s
-2025-09-04T15:43:00 | Train 6204 | from Montpellier Saint-Roch | Swiss stops: - | +1500s
+2025-09-04T15:38:00 | Train 6204 | from Montpellier Saint-Roch | Swiss stops: - | +1200s
+2025-09-04T17:10:00 | Train 6626 | from Lyon Perrache | Swiss stops: - | +600s
 2025-09-04T17:44:00 | Train 9246 | from 83016451 | Swiss stops: - | +1800s
 2025-09-04T17:44:00 | Train 6978 | from Annecy | Swiss stops: - | +1800s
 2025-09-04T18:37:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +900s
-Total delayed trains: 5
+Total delayed trains: 6
