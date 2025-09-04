@@ -1,3 +1,2 @@
-2025-09-04T07:20:00 | Train 6960 | from Annecy | Swiss stops: - | +300s
 2025-09-04T07:46:00 | Train 6692 | from Saint-Étienne Châteaucreux | Swiss stops: - | +900s
-Total delayed trains: 2
+Total delayed trains: 1
