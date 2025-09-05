@@ -1,3 +1,2 @@
-2025-09-05T08:48:00 | Train 6106 | from Marseille Saint-Charles | Swiss stops: - | +1500s
 2025-09-05T10:28:00 | Train 6112 | from Marseille Saint-Charles | Swiss stops: - | +300s
-Total delayed trains: 2
+Total delayed trains: 1
