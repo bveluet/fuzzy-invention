@@ -1,2 +1,2 @@
-2025-09-05T06:24:00 | Train 6760 | from Besançon Viotte | Swiss stops: - | +900s
+2025-09-05T06:19:00 | Train 6760 | from Besançon Viotte | Swiss stops: - | +600s
 Total delayed trains: 1
