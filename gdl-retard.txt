@@ -1,5 +1,5 @@
 2025-09-05T15:51:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +300s
 2025-09-05T15:51:00 | Train 6920 | from Grenoble | Swiss stops: - | +300s
 2025-09-05T15:55:00 | Train 6176 | from Nice | Swiss stops: - | +300s
-2025-09-05T17:34:00 | Train 9246 | from 83016451 | Swiss stops: - | +1200s
+2025-09-05T17:44:00 | Train 9246 | from 83016451 | Swiss stops: - | +1800s
 Total delayed trains: 4
