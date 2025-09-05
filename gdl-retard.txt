@@ -1,3 +1,2 @@
-2025-09-05T13:56:00 | Train 6174 | from Nice | Swiss stops: - | +300s
 2025-09-05T15:15:00 | Train 6622 | from Lyon Perrache | Swiss stops: - | +900s
-Total delayed trains: 2
+Total delayed trains: 1
