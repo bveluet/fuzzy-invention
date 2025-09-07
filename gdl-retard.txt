@@ -1,10 +1,13 @@
 2025-09-07T15:38:00 | Train 6204 | from Perpignan | Swiss stops: - | +1200s
 2025-09-07T15:47:00 | Train 6120 | from Marseille Saint-Charles | Swiss stops: - | +1500s
+2025-09-07T16:11:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +1500s
+2025-09-07T16:11:00 | Train 6920 | from Grenoble | Swiss stops: - | +1500s
 2025-09-07T16:15:00 | Train 6176 | from Nice | Swiss stops: - | +1500s
 2025-09-07T16:52:00 | Train 6624 | from Lyon Perrache | Swiss stops: - | +2700s
 2025-09-07T16:56:00 | Train 6258 | from Perpignan | Swiss stops: - | +2700s
 2025-09-07T16:56:00 | Train 6050 | from Montpellier Sud de France | Swiss stops: - | +2700s
 2025-09-07T17:00:00 | Train 6504 | from Évian-les-Bains | Swiss stops: - | +2700s
 2025-09-07T17:07:00 | Train 6122 | from Marseille Saint-Charles | Swiss stops: - | +2700s
+2025-09-07T17:42:00 | Train 6706 | from Mulhouse | Swiss stops: - | +3600s
 2025-09-07T19:24:00 | Train 6506 | from Évian-les-Bains | Swiss stops: - | +300s
-Total delayed trains: 9
+Total delayed trains: 12
