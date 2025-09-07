@@ -1,6 +1,6 @@
-2025-09-07T13:36:00 | Train 6618 | from Lyon Perrache | Swiss stops: - | +2100s
 2025-09-07T13:57:00 | Train 6174 | from Nice | Swiss stops: - | +300s
 2025-09-07T13:58:00 | Train 6116 | from Marseille Saint-Charles | Swiss stops: - | +2100s
 2025-09-07T14:14:00 | Train 6620 | from Lyon Perrache | Swiss stops: - | +300s
 2025-09-07T14:18:00 | Train 6048 | from Montpellier Sud de France | Swiss stops: - | +300s
+2025-09-07T17:27:00 | Train 6124 | from Hyères | Swiss stops: - | +300s
 Total delayed trains: 5
