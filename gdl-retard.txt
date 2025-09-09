@@ -2,4 +2,5 @@
 2025-09-09T07:52:00 | Train 6194 | from Miramas | Swiss stops: - | +300s
 2025-09-09T07:52:00 | Train 6906 | from Grenoble | Swiss stops: - | +300s
 2025-09-09T09:15:00 | Train 6250 | from Perpignan | Swiss stops: - | +600s
-Total delayed trains: 4
+2025-09-09T11:35:00 | Train 9242 | from 83016451 | Swiss stops: - | +300s
+Total delayed trains: 5
