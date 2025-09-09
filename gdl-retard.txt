@@ -3,8 +3,7 @@
 2025-09-09T17:51:00 | Train 6922 | from Grenoble | Swiss stops: - | +300s
 2025-09-09T18:38:00 | Train 6206 | from Montpellier Saint-Roch | Swiss stops: - | +1200s
 2025-09-09T18:38:00 | Train 6628 | from Lyon Perrache | Swiss stops: - | +1800s
-2025-09-09T19:51:00 | Train 6198 | from Miramas | Swiss stops: - | +300s
-2025-09-09T19:51:00 | Train 6924 | from Grenoble | Swiss stops: - | +300s
+2025-09-09T19:56:00 | Train 6198 | from Miramas | Swiss stops: - | +600s
+2025-09-09T19:56:00 | Train 6924 | from Grenoble | Swiss stops: - | +600s
 2025-09-09T21:07:00 | Train 6224 | from Perpignan | Swiss stops: - | +2400s
-2025-09-09T21:11:00 | Train 6258 | from Perpignan | Swiss stops: - | +18000s
-Total delayed trains: 9
+Total delayed trains: 8
