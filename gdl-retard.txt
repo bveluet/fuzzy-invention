@@ -1,4 +1,4 @@
 2025-09-10T17:44:00 | Train 9246 | from 83016451 | Swiss stops: - | +1800s
 2025-09-10T17:44:00 | Train 6978 | from Annecy | Swiss stops: - | +1800s
-2025-09-10T21:14:00 | Train 6180 | from Nice | Swiss stops: - | +1800s
+2025-09-10T21:44:00 | Train 6180 | from Nice | Swiss stops: - | +3600s
 Total delayed trains: 3
