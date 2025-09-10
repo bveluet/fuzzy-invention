@@ -1,2 +1,2 @@
-2025-09-10T22:04:00 | Train 6180 | from Nice | Swiss stops: - | +4800s
+2025-09-10T22:14:00 | Train 6180 | from Nice | Swiss stops: - | +5400s
 Total delayed trains: 1
