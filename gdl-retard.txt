@@ -1,3 +1,5 @@
+2025-09-10T20:37:00 | Train 6224 | from Perpignan | Swiss stops: - | +600s
+2025-09-10T20:45:00 | Train 6132 | from Marseille Saint-Charles | Swiss stops: - | +600s
 2025-09-10T21:03:00 | Train 6766 | from Besançon Viotte | Swiss stops: - | +2700s
 2025-09-10T22:04:00 | Train 6180 | from Nice | Swiss stops: - | +4800s
-Total delayed trains: 2
+Total delayed trains: 4
