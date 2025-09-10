@@ -1,4 +1,2 @@
-2025-09-10T20:50:00 | Train 6132 | from Marseille Saint-Charles | Swiss stops: - | +900s
-2025-09-10T21:03:00 | Train 6766 | from Besançon Viotte | Swiss stops: - | +2700s
 2025-09-10T22:04:00 | Train 6180 | from Nice | Swiss stops: - | +4800s
-Total delayed trains: 3
+Total delayed trains: 1
