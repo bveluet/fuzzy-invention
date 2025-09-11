@@ -1,5 +1,4 @@
 2025-09-11T06:44:00 | Train 6102 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-09-11T07:02:00 | Train 6902 | from Grenoble | Swiss stops: - | +900s
 2025-09-11T07:50:00 | Train 6960 | from Annecy | Swiss stops: - | +2100s
-2025-09-11T07:52:00 | Train 6194 | from Miramas | Swiss stops: - | +300s
-Total delayed trains: 4
+Total delayed trains: 3
