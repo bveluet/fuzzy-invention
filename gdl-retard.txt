@@ -1,3 +1,2 @@
-2025-09-12T22:22:00 | Train 6180 | from Nice | Swiss stops: - | +6000s
 2025-09-12T22:26:00 | Train 6768 | from Besançon Viotte | Swiss stops: - | +4800s
-Total delayed trains: 2
+Total delayed trains: 1
