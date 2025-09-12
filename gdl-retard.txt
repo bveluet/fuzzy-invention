@@ -12,4 +12,5 @@
 2025-09-12T22:02:00 | Train 6180 | from Nice | Swiss stops: - | +4800s
 2025-09-12T22:05:00 | Train 6038 | from Montpellier Saint-Roch | Swiss stops: - | +1500s
 2025-09-12T22:16:00 | Train 6768 | from Besançon Viotte | Swiss stops: - | +4200s
-Total delayed trains: 14
+2025-09-12T22:36:00 | Train 6924 | from Grenoble | Swiss stops: - | +10200s
+Total delayed trains: 15
