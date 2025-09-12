@@ -1,3 +1,5 @@
-2025-09-12T07:41:00 | Train 6692 | from Saint-Étienne Châteaucreux | Swiss stops: - | +600s
+2025-09-12T06:50:00 | Train 6642 | from Lyon Perrache | Swiss stops: - | +900s
+2025-09-12T06:56:00 | Train 6602 | from Lyon Perrache | Swiss stops: - | +2400s
+2025-09-12T07:51:00 | Train 6692 | from Saint-Étienne Châteaucreux | Swiss stops: - | +1200s
 2025-09-12T08:16:00 | Train 6150 | from Toulon | Swiss stops: - | +1500s
-Total delayed trains: 2
+Total delayed trains: 4
