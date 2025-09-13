@@ -1,1 +1,2 @@
-Total delayed trains: 0
+2025-09-13T06:58:00 | Train 6700 | from Mulhouse | Swiss stops: - | +900s
+Total delayed trains: 1
