@@ -1,2 +1,5 @@
 2025-09-14T13:57:00 | Train 6174 | from Nice | Swiss stops: - | +300s
-Total delayed trains: 1
+2025-09-14T16:12:00 | Train 6624 | from Lyon Perrache | Swiss stops: - | +300s
+2025-09-14T16:16:00 | Train 6258 | from Perpignan | Swiss stops: - | +300s
+2025-09-14T16:16:00 | Train 6050 | from Montpellier Sud de France | Swiss stops: - | +300s
+Total delayed trains: 4
