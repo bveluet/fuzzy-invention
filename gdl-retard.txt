@@ -1,7 +1,7 @@
 2025-09-14T19:55:00 | Train 6168 | from Nice | Swiss stops: - | +300s
 2025-09-14T20:11:00 | Train 6198 | from Miramas | Swiss stops: - | +1500s
 2025-09-14T20:11:00 | Train 6924 | from Grenoble | Swiss stops: - | +1500s
-2025-09-14T21:24:00 | Train 9250 | from 83016451 | Swiss stops: - | +600s
-2025-09-14T21:24:00 | Train 6986 | from Annecy | Swiss stops: - | +600s
+2025-09-14T21:34:00 | Train 9250 | from 83016451 | Swiss stops: - | +1200s
+2025-09-14T21:34:00 | Train 6986 | from Annecy | Swiss stops: - | +1200s
 2025-09-14T21:38:00 | Train 6634 | from Lyon Perrache | Swiss stops: - | +1800s
 Total delayed trains: 6
