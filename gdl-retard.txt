@@ -1,8 +1,9 @@
 2025-09-15T14:22:00 | Train 6972 | from Annecy | Swiss stops: - | +300s
 2025-09-15T15:51:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +300s
-2025-09-15T16:00:00 | Train 6176 | from Nice | Swiss stops: - | +600s
+2025-09-15T15:51:00 | Train 6920 | from Grenoble | Swiss stops: - | +300s
+2025-09-15T16:15:00 | Train 6176 | from Nice | Swiss stops: - | +1500s
 2025-09-15T16:22:00 | Train 6120 | from Marseille Saint-Charles | Swiss stops: - | +3600s
 2025-09-15T16:48:00 | Train 6204 | from Montpellier Saint-Roch | Swiss stops: - | +5400s
 2025-09-15T16:56:00 | Train 6258 | from Perpignan | Swiss stops: - | +2700s
 2025-09-15T16:56:00 | Train 6050 | from Montpellier Sud de France | Swiss stops: - | +2700s
-Total delayed trains: 7
+Total delayed trains: 8
