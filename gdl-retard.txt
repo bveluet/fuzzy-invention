@@ -1,5 +1,7 @@
 2025-09-16T06:14:00 | Train 6760 | from Besançon Viotte | Swiss stops: - | +300s
 2025-09-16T06:21:00 | Train 6602 | from Lyon Perrache | Swiss stops: - | +300s
+2025-09-16T06:48:00 | Train 6700 | from Mulhouse | Swiss stops: - | +300s
+2025-09-16T07:20:00 | Train 6960 | from Annecy | Swiss stops: - | +300s
 2025-09-16T08:11:00 | Train 6150 | from Toulon | Swiss stops: - | +1200s
 2025-09-16T09:20:00 | Train 6250 | from Perpignan | Swiss stops: - | +900s
-Total delayed trains: 4
+Total delayed trains: 6
