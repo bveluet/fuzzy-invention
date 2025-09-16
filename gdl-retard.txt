@@ -1,7 +1,7 @@
-2025-09-16T16:10:00 | Train 6176 | from Nice | Swiss stops: - | +1200s
+2025-09-16T16:35:00 | Train 6176 | from Nice | Swiss stops: - | +2700s
+2025-09-16T16:37:00 | Train 6122 | from Marseille Saint-Charles | Swiss stops: - | +900s
 2025-09-16T17:19:00 | Train 9246 | from 83016451 | Swiss stops: - | +300s
 2025-09-16T17:19:00 | Train 6978 | from Annecy | Swiss stops: - | +300s
 2025-09-16T17:27:00 | Train 6124 | from Hyères | Swiss stops: - | +300s
 2025-09-16T17:27:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +300s
-2025-09-16T19:55:00 | Train 6168 | from Nice | Swiss stops: - | +300s
 Total delayed trains: 6
