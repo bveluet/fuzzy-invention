@@ -1,7 +1,6 @@
-2025-09-16T06:48:00 | Train 6700 | from Mulhouse | Swiss stops: - | +300s
-2025-09-16T07:36:00 | Train 6692 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
+2025-09-16T07:41:00 | Train 6692 | from Saint-Étienne Châteaucreux | Swiss stops: - | +600s
 2025-09-16T07:57:00 | Train 6194 | from Miramas | Swiss stops: - | +600s
 2025-09-16T07:57:00 | Train 6906 | from Grenoble | Swiss stops: - | +600s
 2025-09-16T08:01:00 | Train 6150 | from Toulon | Swiss stops: - | +600s
-2025-09-16T10:24:00 | Train 6202 | from Perpignan | Swiss stops: - | +300s
-Total delayed trains: 6
+2025-09-16T08:18:00 | Train 6608 | from Lyon Perrache | Swiss stops: - | +600s
+Total delayed trains: 5
