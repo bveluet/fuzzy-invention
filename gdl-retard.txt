@@ -8,5 +8,5 @@
 2025-09-17T18:27:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-09-17T19:05:00 | Train 6630 | from Lyon Perrache | Swiss stops: - | +300s
 2025-09-17T19:27:00 | Train 6708 | from Mulhouse | Swiss stops: - | +2700s
-2025-09-17T20:39:00 | Train 6766 | from Besançon Viotte | Swiss stops: - | +1200s
+2025-09-17T20:59:00 | Train 6766 | from Besançon Viotte | Swiss stops: - | +2400s
 Total delayed trains: 11
