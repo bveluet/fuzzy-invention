@@ -1,2 +1,1 @@
-2025-09-18T08:21:00 | Train 6150 | from Toulon | Swiss stops: - | +1800s
-Total delayed trains: 1
+Total delayed trains: 0
