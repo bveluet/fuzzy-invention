@@ -1,6 +1,6 @@
 2025-09-19T15:56:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +600s
 2025-09-19T15:56:00 | Train 6920 | from Grenoble | Swiss stops: - | +600s
-2025-09-19T16:47:00 | Train 6706 | from Mulhouse | Swiss stops: - | +300s
-2025-09-19T17:34:00 | Train 9246 | from 83016451 | Swiss stops: - | +1200s
+2025-09-19T17:39:00 | Train 6696 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
+2025-09-19T17:44:00 | Train 9246 | from 83016451 | Swiss stops: - | +1800s
 2025-09-19T19:04:00 | Train 6978 | from Annecy | Swiss stops: - | +6600s
 Total delayed trains: 5
