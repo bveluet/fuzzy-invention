@@ -1,5 +1,4 @@
-2025-09-20T21:33:00 | Train 6634 | from Lyon Perrache | Swiss stops: - | +1500s
 2025-09-20T21:43:00 | Train 6038 | from Montpellier Saint-Roch | Swiss stops: - | +1500s
 2025-09-20T21:44:00 | Train 9250 | from 83016451 | Swiss stops: - | +1800s
 2025-09-20T21:44:00 | Train 6986 | from Annecy | Swiss stops: - | +1800s
-Total delayed trains: 4
+Total delayed trains: 3
