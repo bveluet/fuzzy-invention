@@ -1,6 +1,5 @@
-2025-09-20T15:28:00 | Train 6204 | from Perpignan | Swiss stops: - | +600s
 2025-09-20T15:56:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +600s
 2025-09-20T15:56:00 | Train 6920 | from Grenoble | Swiss stops: - | +600s
-2025-09-20T17:19:00 | Train 9246 | from 83016451 | Swiss stops: - | +300s
-2025-09-20T17:19:00 | Train 6978 | from Annecy | Swiss stops: - | +300s
-Total delayed trains: 5
+2025-09-20T17:29:00 | Train 9246 | from 83016451 | Swiss stops: - | +900s
+2025-09-20T17:29:00 | Train 6978 | from Annecy | Swiss stops: - | +900s
+Total delayed trains: 4
