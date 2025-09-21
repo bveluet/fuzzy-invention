@@ -1,6 +1,8 @@
 2025-09-21T13:06:00 | Train 6694 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
 2025-09-21T13:06:00 | Train 6618 | from Lyon Perrache | Swiss stops: - | +300s
 2025-09-21T13:40:00 | Train 6704 | from Mulhouse | Swiss stops: - | +1500s
-2025-09-21T17:18:00 | Train 6204 | from Perpignan | Swiss stops: - | +7200s
+2025-09-21T13:51:00 | Train 6910 | from Grenoble | Swiss stops: - | +300s
+2025-09-21T14:18:00 | Train 6048 | from Montpellier Sud de France | Swiss stops: - | +300s
+2025-09-21T16:28:00 | Train 6204 | from Perpignan | Swiss stops: - | +4200s
 2025-09-21T17:31:00 | Train 6258 | from Perpignan | Swiss stops: - | +4800s
-Total delayed trains: 5
+Total delayed trains: 7
