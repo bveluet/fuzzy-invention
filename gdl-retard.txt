@@ -1,7 +1,6 @@
-2025-09-21T21:11:00 | Train 6730 | from Dijon | Swiss stops: - | +1500s
-2025-09-21T21:13:00 | Train 6634 | from Lyon Perrache | Swiss stops: - | +300s
+2025-09-21T21:28:00 | Train 6038 | from Montpellier Saint-Roch | Swiss stops: - | +600s
 2025-09-21T21:34:00 | Train 6986 | from Annecy | Swiss stops: - | +1200s
 2025-09-21T21:34:00 | Train 6134 | from Marseille Saint-Charles | Swiss stops: - | +600s
 2025-09-21T21:36:00 | Train 6198 | from Miramas | Swiss stops: - | +6600s
 2025-09-21T22:03:00 | Train 6186 | from Nice | Swiss stops: - | +300s
-Total delayed trains: 6
+Total delayed trains: 5
