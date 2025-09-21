@@ -1,6 +1,6 @@
-2025-09-21T20:33:00 | Train 6052 | from Perpignan | Swiss stops: - | +900s
 2025-09-21T20:42:00 | Train 6132 | from Marseille Saint-Charles | Swiss stops: - | +1200s
-2025-09-21T20:43:00 | Train 6180 | from Nice | Swiss stops: - | +300s
+2025-09-21T20:43:00 | Train 6052 | from Perpignan | Swiss stops: - | +1500s
+2025-09-21T20:58:00 | Train 6180 | from Nice | Swiss stops: - | +1200s
 2025-09-21T21:11:00 | Train 6730 | from Dijon | Swiss stops: - | +1500s
 2025-09-21T21:34:00 | Train 6986 | from Annecy | Swiss stops: - | +1200s
 2025-09-21T21:34:00 | Train 6134 | from Marseille Saint-Charles | Swiss stops: - | +600s
