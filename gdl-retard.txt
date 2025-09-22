@@ -1,6 +1,7 @@
-2025-09-22T20:01:00 | Train 6198 | from Miramas | Swiss stops: - | +900s
-2025-09-22T20:01:00 | Train 6924 | from Grenoble | Swiss stops: - | +900s
+2025-09-22T20:16:00 | Train 6198 | from Miramas | Swiss stops: - | +1800s
+2025-09-22T20:16:00 | Train 6924 | from Grenoble | Swiss stops: - | +1800s
 2025-09-22T20:45:00 | Train 6132 | from Marseille Saint-Charles | Swiss stops: - | +300s
+2025-09-22T21:25:00 | Train 6634 | from Lyon Perrache | Swiss stops: - | +300s
 2025-09-22T21:29:00 | Train 9250 | from 83016451 | Swiss stops: - | +300s
 2025-09-22T21:29:00 | Train 6986 | from Annecy | Swiss stops: - | +300s
-Total delayed trains: 5
+Total delayed trains: 6
