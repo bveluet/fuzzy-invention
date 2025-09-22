@@ -1,3 +1,4 @@
 2025-09-22T07:13:00 | Train 6690 | from Saint-Étienne Châteaucreux | Swiss stops: - | +600s
-2025-09-22T08:16:00 | Train 6150 | from Toulon | Swiss stops: - | +1500s
-Total delayed trains: 2
+2025-09-22T08:41:00 | Train 6150 | from Toulon | Swiss stops: - | +3000s
+2025-09-22T09:10:00 | Train 6250 | from Perpignan | Swiss stops: - | +300s
+Total delayed trains: 3
