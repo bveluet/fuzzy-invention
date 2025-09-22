@@ -1,6 +1,6 @@
 2025-09-22T08:53:00 | Train 6702 | from Mulhouse | Swiss stops: - | +600s
 2025-09-22T09:11:00 | Train 6150 | from Toulon | Swiss stops: - | +4800s
 2025-09-22T11:44:00 | Train 9242 | from 83016451 | Swiss stops: - | +300s
-2025-09-22T12:11:00 | Train 6188 | from Nice | Swiss stops: - | +1200s
+2025-09-22T12:21:00 | Train 6188 | from Nice | Swiss stops: - | +1800s
 2025-09-22T14:01:00 | Train 6174 | from Nice | Swiss stops: - | +600s
 Total delayed trains: 5
