@@ -1,16 +1,16 @@
-2025-09-22T12:59:00 | Train 9242 | from 83016451 | Swiss stops: - | +4800s
-2025-09-22T13:11:00 | Train 6694 | from Saint-Étienne Châteaucreux | Swiss stops: - | +600s
-2025-09-22T13:11:00 | Train 6618 | from Lyon Perrache | Swiss stops: - | +600s
 2025-09-22T13:33:00 | Train 6116 | from Marseille Saint-Charles | Swiss stops: - | +600s
 2025-09-22T13:35:00 | Train 6340 | from Grenoble | Swiss stops: - | +1500s
-2025-09-22T14:16:00 | Train 6174 | from Nice | Swiss stops: - | +1500s
-2025-09-22T14:16:00 | Train 6074 | from Marseille Saint-Charles | Swiss stops: - | +1500s
-2025-09-22T14:19:00 | Train 6620 | from Lyon Perrache | Swiss stops: - | +600s
-2025-09-22T14:23:00 | Train 6048 | from Montpellier Sud de France | Swiss stops: - | +600s
+2025-09-22T14:24:00 | Train 6620 | from Lyon Perrache | Swiss stops: - | +900s
+2025-09-22T14:26:00 | Train 6174 | from Nice | Swiss stops: - | +2100s
+2025-09-22T14:26:00 | Train 6074 | from Marseille Saint-Charles | Swiss stops: - | +2100s
+2025-09-22T14:28:00 | Train 6048 | from Montpellier Sud de France | Swiss stops: - | +900s
 2025-09-22T14:32:00 | Train 6972 | from Annecy | Swiss stops: - | +900s
 2025-09-22T15:27:00 | Train 6120 | from Marseille Saint-Charles | Swiss stops: - | +300s
+2025-09-22T15:51:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +300s
+2025-09-22T15:51:00 | Train 6920 | from Grenoble | Swiss stops: - | +300s
 2025-09-22T16:16:00 | Train 6258 | from Perpignan | Swiss stops: - | +300s
 2025-09-22T16:16:00 | Train 6050 | from Montpellier Sud de France | Swiss stops: - | +300s
 2025-09-22T16:20:00 | Train 6176 | from Nice | Swiss stops: - | +1800s
 2025-09-22T17:32:00 | Train 6124 | from Hyères | Swiss stops: - | +600s
+2025-09-22T17:32:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +600s
 Total delayed trains: 15
