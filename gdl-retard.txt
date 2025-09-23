@@ -1,7 +1,6 @@
-2025-09-23T16:52:00 | Train 6706 | from Mulhouse | Swiss stops: - | +600s
 2025-09-23T17:10:00 | Train 6626 | from Lyon Perrache | Swiss stops: - | +600s
-2025-09-23T17:49:00 | Train 9246 | from 83016451 | Swiss stops: - | +2100s
-2025-09-23T17:49:00 | Train 6978 | from Annecy | Swiss stops: - | +2100s
+2025-09-23T17:44:00 | Train 9246 | from 83016451 | Swiss stops: - | +1800s
+2025-09-23T17:44:00 | Train 6978 | from Annecy | Swiss stops: - | +1800s
 2025-09-23T17:51:00 | Train 6922 | from Grenoble | Swiss stops: - | +300s
 2025-09-23T18:57:00 | Train 6708 | from Mulhouse | Swiss stops: - | +900s
-Total delayed trains: 6
+Total delayed trains: 5
