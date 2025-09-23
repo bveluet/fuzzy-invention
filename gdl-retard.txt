@@ -1,4 +1,5 @@
 2025-09-23T16:52:00 | Train 6706 | from Mulhouse | Swiss stops: - | +600s
+2025-09-23T17:10:00 | Train 6626 | from Lyon Perrache | Swiss stops: - | +600s
 2025-09-23T17:49:00 | Train 9246 | from 83016451 | Swiss stops: - | +2100s
 2025-09-23T17:49:00 | Train 6978 | from Annecy | Swiss stops: - | +2100s
-Total delayed trains: 3
+Total delayed trains: 4
