@@ -1,3 +1,4 @@
-2025-09-23T17:29:00 | Train 9246 | from 83016451 | Swiss stops: - | +900s
-2025-09-23T17:29:00 | Train 6978 | from Annecy | Swiss stops: - | +900s
-Total delayed trains: 2
+2025-09-23T16:52:00 | Train 6706 | from Mulhouse | Swiss stops: - | +600s
+2025-09-23T17:44:00 | Train 9246 | from 83016451 | Swiss stops: - | +1800s
+2025-09-23T17:44:00 | Train 6978 | from Annecy | Swiss stops: - | +1800s
+Total delayed trains: 3
