@@ -2,4 +2,5 @@
 2025-09-24T07:23:00 | Train 6700 | from Mulhouse | Swiss stops: - | +2400s
 2025-09-24T08:31:00 | Train 6150 | from Toulon | Swiss stops: - | +2400s
 2025-09-24T09:03:00 | Train 6702 | from Mulhouse | Swiss stops: - | +1200s
-Total delayed trains: 4
+2025-09-24T11:44:00 | Train 9242 | from 83016451 | Swiss stops: - | +300s
+Total delayed trains: 5
