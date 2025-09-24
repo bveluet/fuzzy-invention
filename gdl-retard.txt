@@ -1,3 +1,4 @@
 2025-09-24T06:49:00 | Train 6102 | from Marseille Saint-Charles | Swiss stops: - | +600s
 2025-09-24T07:03:00 | Train 6700 | from Mulhouse | Swiss stops: - | +1200s
-Total delayed trains: 2
+2025-09-24T08:11:00 | Train 6150 | from Toulon | Swiss stops: - | +1200s
+Total delayed trains: 3
