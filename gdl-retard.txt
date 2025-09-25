@@ -1,6 +1,5 @@
-2025-09-25T07:16:00 | Train 6602 | from Lyon Perrache | Swiss stops: - | +3600s
-2025-09-25T07:20:00 | Train 6960 | from Annecy | Swiss stops: - | +300s
 2025-09-25T07:24:00 | Train 6200 | from Montpellier Saint-Roch | Swiss stops: - | +300s
 2025-09-25T07:28:00 | Train 6136 | from Marseille Saint-Charles | Swiss stops: - | +300s
+2025-09-25T08:48:00 | Train 6702 | from Mulhouse | Swiss stops: - | +300s
 2025-09-25T09:37:00 | Train 6194 | from Miramas | Swiss stops: - | +6600s
-Total delayed trains: 5
+Total delayed trains: 4
