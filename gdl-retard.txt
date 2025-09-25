@@ -1,2 +1,2 @@
-2025-09-25T07:57:00 | Train 6194 | from Miramas | Swiss stops: - | +600s
+2025-09-25T08:17:00 | Train 6194 | from Miramas | Swiss stops: - | +1800s
 Total delayed trains: 1
