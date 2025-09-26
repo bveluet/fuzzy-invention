@@ -1,7 +1,8 @@
+2025-09-26T18:13:00 | Train 6628 | from Lyon Perrache | Swiss stops: - | +300s
 2025-09-26T18:48:00 | Train 6708 | from Mulhouse | Swiss stops: - | +300s
 2025-09-26T19:05:00 | Train 6630 | from Lyon Perrache | Swiss stops: - | +300s
 2025-09-26T20:00:00 | Train 6168 | from Nice | Swiss stops: - | +600s
 2025-09-26T20:06:00 | Train 6198 | from Miramas | Swiss stops: - | +1200s
 2025-09-26T20:06:00 | Train 6924 | from Grenoble | Swiss stops: - | +1200s
 2025-09-26T20:52:00 | Train 6180 | from Nice | Swiss stops: - | +600s
-Total delayed trains: 6
+Total delayed trains: 7
