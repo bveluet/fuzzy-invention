@@ -5,6 +5,7 @@
 2025-09-26T16:21:00 | Train 6258 | from Perpignan | Swiss stops: - | +600s
 2025-09-26T16:21:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +2100s
 2025-09-26T16:21:00 | Train 6050 | from Montpellier Sud de France | Swiss stops: - | +600s
-2025-09-26T20:06:00 | Train 6198 | from Miramas | Swiss stops: - | +1200s
+2025-09-26T17:05:00 | Train 6626 | from Lyon Perrache | Swiss stops: - | +300s
 2025-09-26T20:10:00 | Train 6168 | from Nice | Swiss stops: - | +1200s
-Total delayed trains: 9
+2025-09-26T20:11:00 | Train 6198 | from Miramas | Swiss stops: - | +1500s
+Total delayed trains: 10
