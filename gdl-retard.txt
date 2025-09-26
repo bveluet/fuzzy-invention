@@ -1,2 +1,5 @@
-2025-09-26T16:06:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +1200s
-Total delayed trains: 1
+2025-09-26T15:27:00 | Train 6120 | from Marseille Saint-Charles | Swiss stops: - | +300s
+2025-09-26T16:21:00 | Train 6258 | from Perpignan | Swiss stops: - | +600s
+2025-09-26T16:21:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +2100s
+2025-09-26T16:21:00 | Train 6050 | from Montpellier Sud de France | Swiss stops: - | +600s
+Total delayed trains: 4
