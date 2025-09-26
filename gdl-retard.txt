@@ -1,6 +1,7 @@
 2025-09-26T15:27:00 | Train 6120 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-09-26T15:51:00 | Train 6920 | from Grenoble | Swiss stops: - | +300s
+2025-09-26T16:12:00 | Train 6624 | from Lyon Perrache | Swiss stops: - | +300s
 2025-09-26T16:21:00 | Train 6258 | from Perpignan | Swiss stops: - | +600s
 2025-09-26T16:21:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +2100s
 2025-09-26T16:21:00 | Train 6050 | from Montpellier Sud de France | Swiss stops: - | +600s
-Total delayed trains: 5
+Total delayed trains: 6
