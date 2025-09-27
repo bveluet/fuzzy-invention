@@ -1,1 +1,2 @@
-Total delayed trains: 0
+2025-09-27T09:10:00 | Train 6250 | from Montpellier Sud de France | Swiss stops: - | +300s
+Total delayed trains: 1
