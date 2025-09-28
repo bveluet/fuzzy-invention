@@ -7,4 +7,5 @@
 2025-09-28T17:19:00 | Train 6978 | from Annecy | Swiss stops: - | +300s
 2025-09-28T17:27:00 | Train 6124 | from Hyères | Swiss stops: - | +300s
 2025-09-28T17:27:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +300s
-Total delayed trains: 9
+2025-09-28T19:20:00 | Train 6980 | from Annecy | Swiss stops: - | +300s
+Total delayed trains: 10
