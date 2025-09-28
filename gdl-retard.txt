@@ -4,5 +4,5 @@
 2025-09-28T17:27:00 | Train 6124 | from Hyères | Swiss stops: - | +300s
 2025-09-28T17:27:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-09-28T19:20:00 | Train 6980 | from Annecy | Swiss stops: - | +300s
-2025-09-28T20:10:00 | Train 6168 | from Nice | Swiss stops: - | +1200s
+2025-09-28T20:05:00 | Train 6168 | from Nice | Swiss stops: - | +900s
 Total delayed trains: 7
