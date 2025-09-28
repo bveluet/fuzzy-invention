@@ -1,11 +1,7 @@
-2025-09-28T16:12:00 | Train 6624 | from Lyon Perrache | Swiss stops: - | +300s
-2025-09-28T16:16:00 | Train 6258 | from Perpignan | Swiss stops: - | +300s
-2025-09-28T16:16:00 | Train 6050 | from Montpellier Sud de France | Swiss stops: - | +300s
-2025-09-28T16:20:00 | Train 6504 | from Évian-les-Bains | Swiss stops: - | +300s
 2025-09-28T17:05:00 | Train 6626 | from Lyon Perrache | Swiss stops: - | +300s
 2025-09-28T17:19:00 | Train 9246 | from 83016451 | Swiss stops: - | +300s
 2025-09-28T17:19:00 | Train 6978 | from Annecy | Swiss stops: - | +300s
 2025-09-28T17:27:00 | Train 6124 | from Hyères | Swiss stops: - | +300s
 2025-09-28T17:27:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-09-28T19:20:00 | Train 6980 | from Annecy | Swiss stops: - | +300s
-Total delayed trains: 10
+Total delayed trains: 6
