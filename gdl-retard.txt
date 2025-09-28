@@ -1,4 +1,5 @@
 2025-09-28T19:20:00 | Train 6980 | from Annecy | Swiss stops: - | +300s
 2025-09-28T19:24:00 | Train 6506 | from Évian-les-Bains | Swiss stops: - | +300s
 2025-09-28T20:05:00 | Train 6168 | from Nice | Swiss stops: - | +900s
-Total delayed trains: 3
+2025-09-28T21:13:00 | Train 6634 | from Lyon Perrache | Swiss stops: - | +300s
+Total delayed trains: 4
