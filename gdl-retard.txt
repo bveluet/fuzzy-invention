@@ -1,7 +1,8 @@
-2025-09-29T14:18:00 | Train 6048 | from Montpellier Sud de France | Swiss stops: - | +300s
+2025-09-29T15:51:00 | Train 6196 | from Avignon Centre | Swiss stops: - | +300s
+2025-09-29T15:51:00 | Train 6920 | from Grenoble | Swiss stops: - | +300s
 2025-09-29T15:55:00 | Train 6176 | from Nice | Swiss stops: - | +300s
 2025-09-29T17:19:00 | Train 9246 | from 83016451 | Swiss stops: - | +300s
 2025-09-29T17:19:00 | Train 6978 | from Annecy | Swiss stops: - | +300s
 2025-09-29T17:27:00 | Train 6124 | from Hyères | Swiss stops: - | +300s
 2025-09-29T17:27:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +300s
-Total delayed trains: 6
+Total delayed trains: 7
