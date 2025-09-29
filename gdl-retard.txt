@@ -1,4 +1,7 @@
+2025-09-29T11:16:00 | Train 6614 | from Lyon Perrache | Swiss stops: - | +900s
 2025-09-29T11:40:00 | Train 6616 | from Lyon Perrache | Swiss stops: - | +300s
 2025-09-29T11:41:00 | Train 9242 | from 83016451 | Swiss stops: - | +600s
+2025-09-29T13:06:00 | Train 6694 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
+2025-09-29T13:06:00 | Train 6618 | from Lyon Perrache | Swiss stops: - | +300s
 2025-09-29T13:28:00 | Train 6116 | from Marseille Saint-Charles | Swiss stops: - | +300s
-Total delayed trains: 3
+Total delayed trains: 6
