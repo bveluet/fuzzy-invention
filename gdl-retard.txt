@@ -1,8 +1,7 @@
-2025-09-29T17:32:00 | Train 6124 | from Hyères | Swiss stops: - | +600s
-2025-09-29T17:32:00 | Train 6024 | from Marseille Saint-Charles | Swiss stops: - | +600s
 2025-09-29T18:23:00 | Train 6206 | from Montpellier Saint-Roch | Swiss stops: - | +300s
 2025-09-29T18:27:00 | Train 6128 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-09-29T19:05:00 | Train 6630 | from Lyon Perrache | Swiss stops: - | +300s
+2025-09-29T20:45:00 | Train 6132 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-09-29T21:29:00 | Train 9250 | from 83016451 | Swiss stops: - | +300s
 2025-09-29T21:29:00 | Train 6986 | from Annecy | Swiss stops: - | +300s
-Total delayed trains: 7
+Total delayed trains: 6
