@@ -1,4 +1,5 @@
 2025-09-30T06:44:00 | Train 6102 | from Marseille Saint-Charles | Swiss stops: - | +300s
-2025-09-30T07:53:00 | Train 6136 | from Marseille Saint-Charles | Swiss stops: - | +1800s
+2025-09-30T07:36:00 | Train 6692 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
 2025-09-30T07:56:00 | Train 6150 | from Toulon | Swiss stops: - | +300s
-Total delayed trains: 3
+2025-09-30T07:58:00 | Train 6136 | from Marseille Saint-Charles | Swiss stops: - | +2100s
+Total delayed trains: 4
