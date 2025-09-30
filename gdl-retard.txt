@@ -1,7 +1,6 @@
-2025-09-30T06:44:00 | Train 6102 | from Marseille Saint-Charles | Swiss stops: - | +300s
 2025-09-30T07:20:00 | Train 6960 | from Annecy | Swiss stops: - | +300s
 2025-09-30T07:36:00 | Train 6692 | from Saint-Étienne Châteaucreux | Swiss stops: - | +300s
 2025-09-30T07:56:00 | Train 6150 | from Toulon | Swiss stops: - | +300s
 2025-09-30T08:08:00 | Train 6136 | from Marseille Saint-Charles | Swiss stops: - | +2700s
-2025-09-30T10:24:00 | Train 6202 | from Perpignan | Swiss stops: - | +300s
-Total delayed trains: 6
+2025-09-30T08:13:00 | Train 6608 | from Lyon Perrache | Swiss stops: - | +300s
+Total delayed trains: 5
